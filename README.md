@@ -1,196 +1,192 @@
 # ActiveArena
 
-ActiveArena is the simulator, task suite, dataset tooling, and fixed-seed evaluator for active visual perception in robotic manipulation. It ships a frozen simulator snapshot with a controllable Astribot S1 embodiment, large workspaces, hidden evidence, process-level annotations, and ID/OOD protocols.
+**Benchmarking and Understanding Active Perception in Robotic Manipulation**
+
+ActiveArena is a simulation environment and benchmark for robotic manipulation that requires **actively acquiring visual evidence and remembering it across observations**. Robots must change viewpoints, search across a large workspace, or interact with objects to reveal information before completing a task.
+
+[Project Website](https://leeibo.github.io/ActiveArena) · [Dataset](https://huggingface.co/datasets/leeibo/ActiveArena-Data) · [Simulation Assets](https://huggingface.co/datasets/leeibo/ActiveArena-Assets)
 
 <p align="center">
-  <img src="docs/images/teaser.png" alt="ActiveArena benchmark rollout" width="96%">
+  <img src="docs/images/teaser.png" alt="ActiveArena rollouts showing visual search and manipulation" width="96%">
 </p>
 
-<p align="center"><b>35 tasks · 2 families · 5 categories · active viewpoints · memory</b></p>
+<p align="center"><b>35 tasks · 2 task families · 5 categories · controllable viewpoints · ID/OOD evaluation</b></p>
 
-| Project | Purpose |
+## Overview
+
+This repository provides the simulator, benchmark tasks, demonstration collection tools, process annotations, and fixed-seed evaluator.
+
+- **ActiveArena-Sim:** an Astribot S1 embodiment with controllable head and torso, dual-arm manipulation, and large workspaces that require viewpoint changes.
+- **ActiveArena-Bench:** 35 language-conditioned tasks covering visual exploration and interactive information acquisition.
+- **Data and annotations:** demonstration collection with images, robot states, language instructions, and process-level annotations for studying perception, memory, and action.
+- **Reproducible evaluation:** fixed task lists, scene configurations, evaluation seeds, and task success checks for in-distribution (ID) and out-of-distribution (OOD) evaluation.
+
+## Benchmark
+
+The initial observation is insufficient to solve the tasks. A policy must decide where to look, what evidence to retain, and when to act on that evidence. The benchmark uses an 18-dimensional action representation covering both arms, grippers, torso, and head.
+
+| Category | Focus |
 | --- | --- |
-| **ActiveArena** | Simulation, collection, assets, task configs and evaluation |
-| [ActiveArena-VLA](https://github.com/leeibo/ActiveArena-VLA) | Training and serving the released VLA policies |
-| [ActiveArena-VLA weights](https://huggingface.co/leeibo/ActiveArena-VLA) | Three 100,000-step checkpoint bundles and SHA-256 manifest |
-| [Project website](https://leeibo.github.io/ActiveArena) | Visual overview, videos and release instructions |
-
-Public release links: [simulator code](https://github.com/leeibo/ActiveArena), [VLA code](https://github.com/leeibo/ActiveArena-VLA), [training data](https://huggingface.co/datasets/leeibo/ActiveArena-Data), and [static assets](https://huggingface.co/datasets/leeibo/ActiveArena-Assets).
-
-> **Release status.** This checkout is the public-facing benchmark code. Large model bundles are published through the [ActiveArena-VLA Hugging Face repository](https://huggingface.co/leeibo/ActiveArena-VLA). The source archive at the workspace root contains the AAAI LaTeX files; its bundled submission PDFs are formatting templates and are not linked as the paper.
-
-## Benchmark at a glance
-
-ActiveArena evaluates language-conditioned manipulation when the initial observation is insufficient. The Astribot action vector has 18 dimensions covering both arms, grippers, torso, and head. Tasks require the policy to alternate between information acquisition and task execution while retaining evidence across viewpoints.
-
-The 35 tasks span two families—visual search and interactive information acquisition—and five categories:
-
-- **SS — Single-Object Search:** locate one target and manipulate it.
-- **SL — Single-Object Loop:** search across regions and transport one object.
-- **ML — Multi-Object Loop:** complete several perception–action loops.
-- **MD — Multi-Object Decision:** compare candidates using acquired evidence.
-- **IA — Interactive Information Acquisition:** interact with the scene to reveal hidden information.
-
-The paper's training protocol uses 100 ID trajectories per task (581.2k frames / 10.76 hours). Those raw demonstrations and converted training datasets are not included in this code checkout. This release contains the collection and annotation tooling plus fixed lists of 50 ID and 50 OOD evaluation seeds. The evaluator can run either the demonstration or randomized scene configuration.
+| **SS — Single-Object Search** | Locate a target and manipulate it. |
+| **SL — Single-Object Loop** | Search across regions and transport one object. |
+| **ML — Multi-Object Loop** | Complete multiple perception–action loops. |
+| **MD — Multi-Object Decision** | Acquire evidence about candidates and compare them. |
+| **IA — Interactive Information Acquisition** | Interact with the scene to reveal hidden information. |
 
 <p align="center">
-  <img src="docs/images/benchmark.png" alt="ActiveArena benchmark tasks and simulator with controllable head and torso" width="100%">
+  <img src="docs/images/benchmark.png" alt="ActiveArena simulator, task categories, and evaluation protocol" width="100%">
 </p>
 
-The paper studies 13 VLA configurations. The companion [ActiveArena-VLA](https://github.com/leeibo/ActiveArena-VLA) release packages three OFT training recipes and checkpoint bundles.
+The benchmark training protocol uses **100 ID demonstrations per task**, totaling **581.2k frames / 10.76 hours**. Evaluation uses **50 episodes per task in each setting**. The released task list is in [task_config/eval_seed_task_whitelist.yml](task_config/eval_seed_task_whitelist.yml).
 
-## Install the ActiveArena simulator
+## Installation
 
-Clone the simulator and its two public release companions into one workspace:
+### Environment
+
+Use Linux with Python 3.10, an NVIDIA GPU, a CUDA toolkit compatible with the pinned PyTorch build, Vulkan rendering, and `ffmpeg`.
 
 ```bash
-mkdir -p activearena-release && cd activearena-release
 git clone https://github.com/leeibo/ActiveArena.git
-git clone https://github.com/leeibo/ActiveArena-VLA.git
 cd ActiveArena
-```
 
-The checkpoints are large Git-LFS files and are downloaded separately below.
-
-Use Linux with Python 3.10, an NVIDIA GPU, a CUDA toolkit compatible with the pinned PyTorch build, Vulkan rendering, and `ffmpeg`. The release includes a pinned environment definition and vendored simulator source:
-
-```bash
-conda env create -f environment.yml
-conda activate activearena-sim
 sudo apt-get update
 sudo apt-get install -y git curl unzip ffmpeg libvulkan1 mesa-vulkan-drivers vulkan-tools \
   libx11-6 libxext6 libxrender1 libxfixes3 libxrandr2 libxi6 build-essential
+
+conda env create -f environment.yml
+conda activate activearena-sim
 bash script/_install.sh
 python -c "import torch, sapien, mplib, curobo, yaml, h5py; print('ActiveArena imports OK')"
 ```
 
-The cuRobo installation and evaluation launcher require the CUDA compiler (`nvcc`). If CUDA is installed outside the conda environment, set `CUDA_HOME` for installation and `ACTIVEARENA_CUDA_HOME` for evaluation to that toolkit directory. Use the separate `activearena-vla` environment for the policy code, as described in the [ActiveArena-VLA install guide](https://github.com/leeibo/ActiveArena-VLA#install).
+The installer builds pinned versions of PyTorch3D and cuRobo. A CUDA toolkit containing `nvcc` is required; set `CUDA_HOME` to its directory if it is installed outside the conda environment. Package versions are recorded in [script/requirements.txt](script/requirements.txt), with source revisions in [docs/UPSTREAM_SNAPSHOTS.md](docs/UPSTREAM_SNAPSHOTS.md).
 
-Download the pinned base assets, then the ActiveArena additions:
+### Simulation assets
+
+Download the base simulation assets and the ActiveArena additions:
 
 ```bash
 bash script/_download_assets.sh
 python script/download_activearena_assets.py
 ```
 
-The downloader verifies checksums and installs the button object and Astribot embodiment into `assets/`. The exact source and asset revisions are recorded in [docs/UPSTREAM_SNAPSHOTS.md](docs/UPSTREAM_SNAPSHOTS.md).
+The first command downloads the pinned RoboTwin2.0 base archives. The second installs the button object and Astribot embodiment from [ActiveArena-Assets](https://huggingface.co/datasets/leeibo/ActiveArena-Assets), verifying their checksums. Both commands validate archive layouts and support retries.
 
-`script/_download_assets.sh` downloads the three pinned base archives from the
-RoboTwin2.0 dataset snapshot. `script/download_activearena_assets.py` downloads
-the two ActiveArena additions from the public [ActiveArena-Assets dataset](https://huggingface.co/datasets/leeibo/ActiveArena-Assets).
-Both commands can be retried safely and validate the expected archive layout
-before removing downloaded archives or exposing an asset directory to the
-simulator.
+```text
+assets/
+├── background_texture/
+├── objects/005_button/
+└── embodiments/astribot_descriptions_texture/
+```
 
-## Collect data
+If you move the repository, rerun `python script/download_activearena_assets.py` to update absolute URDF and collision paths.
+
+## Collect demonstrations
+
+Run a task with the demonstration scene configuration:
 
 ```bash
 bash collect_data.sh count_target_press_button info_gathering_demo 0
+```
+
+The arguments are **task name**, **task configuration**, and **GPU ID**. To collect with randomized scenes:
+
+```bash
 bash collect_data.sh count_target_press_button info_gathering_randomized 0
 ```
 
-The arguments are task name, task configuration, and GPU ID. Collection writes HDF5 trajectories, videos, scene metadata, and episode instructions below `data/<task>/<config>__<difficulty_tag>/`. Set `episode_num` in `task_config/*.yml` to control the number of episodes.
+Configure collection through [task_config/info_gathering_demo.yml](task_config/info_gathering_demo.yml) or [task_config/info_gathering_randomized.yml](task_config/info_gathering_randomized.yml). Set `episode_num` to the desired number of demonstrations; camera, observation, and domain-randomization options are defined in the same files.
 
-For training, convert the collected trajectories to the LeRobot layout expected by [ActiveArena-VLA](https://github.com/leeibo/ActiveArena-VLA). The required fields and setup are recorded in [docs/reproduction.md](docs/reproduction.md).
+Outputs are stored under `data/<task>/<config>__<difficulty_tag>/`, including HDF5 trajectories, videos, scene metadata, and episode instructions. Keep training demonstrations separate from the fixed evaluation episodes.
 
-The released converted LeRobot demonstrations are available from the [ActiveArena-Data dataset](https://huggingface.co/datasets/leeibo/ActiveArena-Data). They are consumed by ActiveArena-VLA; they are not simulator HDF5 collection output:
+### Released dataset
+
+The demonstration dataset is available in LeRobot format from [ActiveArena-Data](https://huggingface.co/datasets/leeibo/ActiveArena-Data):
 
 ```bash
 huggingface-cli download leeibo/ActiveArena-Data \
   --repo-type dataset \
-  --local-dir /path/to/ActiveArena-VLA/playground/dataset/ActiveArena_Astribot_lerobot
+  --local-dir data/ActiveArena-Data
 ```
 
-## Evaluate a released policy
+This is the converted training dataset. Raw HDF5 trajectories can be generated with the collection commands above. Large datasets and simulation assets are distributed separately from the code repository.
 
-Place the matching checkpoint bundle beside the two repositories. Download the
-base VLM from [Qwen/Qwen3-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct)
-into the path expected by the released configs (or set
-`ACTIVEARENA_VLA_BASE_VLM` to another local snapshot):
+## Evaluation
+
+### Protocol
+
+| Setting | Task configuration | Scene variation |
+| --- | --- | --- |
+| ID | `info_gathering_demo` | Demonstration-domain scenes with held-out evaluation seeds. |
+| OOD | `info_gathering_randomized` | Randomized backgrounds, lighting, table height, and a broader distractor pool. |
+
+Each setting contains seed files for all 35 benchmark tasks in [eval_seed_lists/](eval_seed_lists/). Each task file stores **100 ordered, unique valid seeds**; the benchmark protocol evaluates the **first 50 entries**. Run every selected episode, count unsuccessful policy episodes as failures, and report per-task success rates and their mean across the 35 tasks separately for ID and OOD.
+
+### Evaluate your own policy
+
+The evaluator in [script/eval_policy.py](script/eval_policy.py) loads a policy module from `policy/`. To integrate a policy, create `policy/my_policy/` and export these functions from its `__init__.py`:
+
+| Function | Responsibility |
+| --- | --- |
+| `get_model(usr_args)` | Load the policy or connect to its inference server. |
+| `reset_model(model)` | Reset policy state and memory before each episode. |
+| `eval(TASK_ENV, model, observation)` | Predict and execute actions through `TASK_ENV.take_action(...)`. |
+
+The evaluator supplies observations from `TASK_ENV.get_obs()`; the episode instruction is available through `TASK_ENV.get_instruction()`. The adapter handles observation preprocessing and conversion to the simulator's action layout. See [envs/_base_task.py](envs/_base_task.py) for the environment interface.
+
+After implementing the adapter, create `policy/my_policy/deploy_policy.yml` with the evaluation fields below and any additional settings required by your model:
+
+```yaml
+policy_name: my_policy
+task_name: count_target_press_button
+task_config: info_gathering_demo
+ckpt_setting: my_checkpoint
+seed: 0
+instruction_type: unseen
+test_num: 50
+use_eval_seed_list: true
+```
+
+Run from the ActiveArena repository root with the simulator environment active:
 
 ```bash
-cd ../ActiveArena-VLA
-huggingface-cli download Qwen/Qwen3-VL-2B-Instruct \
-  --local-dir playground/Pretrained_models/ActiveArena/Qwen3-VL-2B-Instruct
-cd ../ActiveArena
+CUDA_VISIBLE_DEVICES=0 python script/eval_policy.py \
+  --config policy/my_policy/deploy_policy.yml
 ```
 
-Download the released action bundles from [leeibo/ActiveArena-VLA](https://huggingface.co/leeibo/ActiveArena-VLA)
-with the Hugging Face CLI (this avoids leaving Git-LFS pointer files in place),
-then verify their manifest:
+Use `--overrides --test_num 1` for a one-episode smoke run. For OOD evaluation, use `--overrides --task_config info_gathering_randomized`. Run each task in the benchmark task list for a complete evaluation. `use_eval_seed_list: true` selects the committed seeds for the chosen task and configuration.
 
-```bash
-mkdir -p ../ActiveArena-VLA-weights
-huggingface-cli download leeibo/ActiveArena-VLA \
-  --local-dir ../ActiveArena-VLA-weights
-cd ../ActiveArena-VLA-weights
-./verify.sh
-cd ../ActiveArena
-```
+Results and rollout videos are written under `eval_result/<task>/<policy>/<task_config>/<ckpt_setting>/<timestamp>/` by default.
 
-Run a dry check before starting a policy server. The launcher uses the
-`activearena-sim` environment by default. For a custom environment, set
-`ACTIVEARENA_PYTHON` (the legacy `ROBOTWIN_PYTHON` alias remains accepted):
+### Optional baselines
 
-```bash
-GPU_LIST=0 DRY_RUN=1 \
-  bash eval_seed.sh oft_subtask_action_12_ws info_gathering_demo
-```
+[ActiveArena-VLA](https://github.com/leeibo/ActiveArena-VLA) provides reference policies, training recipes, and pretrained checkpoints. For those baselines, see the [reproduction guide](docs/reproduction.md) and [multi-GPU evaluation launcher guide](ACTIVEARENA_EVAL_LAUNCH.md).
 
-After the dry check passes, a one-task, one-episode smoke run is:
-
-```bash
-GPU_LIST=0 TASK_LIMIT=1 EVAL_TEST_NUM=1 TMUX_MONITOR=0 \
-  bash eval_seed.sh oft_subtask_action_12_ws info_gathering_demo
-```
-
-This starts a real policy server and simulator worker. It requires an NVIDIA
-GPU, `nvcc`, the installed cuRobo source tree, the base VLM, and the matching
-checkpoint. `DRY_RUN=1` only validates paths and metadata; it does not test
-inference.
-
-Run all 35 tasks with fixed seeds after the dependencies are ready. The launcher starts the policy servers and evaluation workers:
-
-```bash
-GPU_LIST=0,1,2,3 EVAL_TEST_NUM=50 \
-  bash eval_seed.sh oft_subtask_action_12_ws info_gathering_randomized
-```
-
-The three supported configurations are `oft_instruction_action_12_ws`, `oft_subtask_action_12_wos`, and `oft_subtask_action_12_ws`, all at step 100,000. Logs and reports are written to `logs/eval_seed/<task_config>/<model>/<run_id>/`. Use `TASK_LIMIT=1 EVAL_TEST_NUM=1` for a smoke run. Full environment variables and recovery instructions are in [ACTIVEARENA_EVAL_LAUNCH.md](ACTIVEARENA_EVAL_LAUNCH.md).
-
-## Acknowledgements
-
-ActiveArena builds on and gratefully acknowledges the following open-source projects:
-
-- [RoboTwin](https://github.com/RoboTwin-Platform/RoboTwin) for the simulator infrastructure and robot-manipulation foundation.
-- [RMBench](https://github.com/RoboTwin-Platform/RMBench) for the articulated information-gathering assets used by the button tasks.
-- [StarVLA](https://github.com/starVLA/starVLA) for the vision-language-action training and policy-serving foundation used by ActiveArena-VLA.
-
-Please follow the original projects' licenses and citation requirements when using the corresponding code or assets.
-
-## Asset layout
+## Repository structure
 
 ```text
-assets/
-├── background_texture/                  # pinned base simulation assets
-├── objects/005_button/                  # ActiveArena object archive
-└── embodiments/astribot_descriptions_texture/
-                                         # Astribot URDF, meshes and cuRobo files
+ActiveArena/
+├── envs/                  # Simulator, task implementations, and success checks
+├── task_config/           # Scene, camera, embodiment, and benchmark task configs
+├── eval_seed_lists/       # Fixed ID/OOD evaluation seeds
+├── description/           # Language templates and instruction generation
+├── script/                # Installation, assets, collection, and evaluation tools
+├── policy/                # Policy adapters
+├── assets/                # Asset download utilities and installed simulation assets
+├── docs/                  # Benchmark figures and supporting documentation
+├── collect_data.sh        # Demonstration collection entry point
+└── environment.yml        # Simulator environment
 ```
 
-`python script/download_activearena_assets.py --assets-dir /path/to/assets` supports a custom cache. When the repository moves, rerun the downloader so absolute URDF and collision paths are rewritten.
+## Acknowledgements and license
 
-## Reproduction and release notes
+ActiveArena builds on [RoboTwin](https://github.com/RoboTwin-Platform/RoboTwin) for simulation and manipulation infrastructure, and uses articulated information-gathering assets from [RMBench](https://github.com/RoboTwin-Platform/RMBench). The reference policy adapters build on [StarVLA](https://github.com/starVLA/starVLA).
 
-- [docs/reproduction.md](docs/reproduction.md) — end-to-end environment, data, model, and evaluation checklist.
-- [docs/UPSTREAM_SNAPSHOTS.md](docs/UPSTREAM_SNAPSHOTS.md) — immutable simulator, asset, and source-build revisions.
-- [docs/media.md](docs/media.md) — provenance and dimensions of the website demo clips (when present).
-- [ACTIVEARENA_EVAL_LAUNCH.md](ACTIVEARENA_EVAL_LAUNCH.md) — multi-GPU policy-server/evaluator orchestration.
-- [LICENSE](LICENSE) — benchmark repository license and upstream attribution.
-
-Do not commit downloaded assets, checkpoints, API keys, or local result logs. The included task seeds and configuration files are the reproducibility surface; external assets and base models remain separately licensed.
+The code is released under the [MIT License](LICENSE). Third-party code and assets retain their respective licenses and attribution requirements.
 
 ## Citation
+
+If you use ActiveArena in your research, please cite the project. The following is a temporary manuscript entry; verified author and publication metadata will be added when available.
 
 ```bibtex
 @misc{activearena_manuscript,
@@ -199,4 +195,4 @@ Do not commit downloaded assets, checkpoints, API keys, or local result logs. Th
 }
 ```
 
-The supplied source does not establish the manuscript's author list, public URL, or DOI. This temporary entry deliberately omits those fields and does not imply acceptance. Replace it with the verified manuscript citation when available. Contributions and bug reports are welcome through the issue tracker of the public repository.
+Contributions and bug reports are welcome through the [issue tracker](https://github.com/leeibo/ActiveArena/issues).
