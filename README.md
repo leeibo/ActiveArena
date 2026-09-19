@@ -33,6 +33,9 @@ The initial observation is insufficient to solve the tasks. A policy must decide
 | **MD — Multi-Object Decision** | Acquire evidence about candidates and compare them. |
 | **IA — Interactive Information Acquisition** | Interact with the scene to reveal hidden information. |
 
+For the full definitions and the complete task-to-category list, please see
+[docs/task_categories.md](docs/task_categories.md).
+
 <p align="center">
   <img src="docs/images/benchmark.png" alt="ActiveArena simulator, task categories, and evaluation protocol" width="100%">
 </p>
@@ -60,6 +63,9 @@ python -c "import torch, sapien, mplib, curobo, yaml, h5py; print('ActiveArena i
 ```
 
 The installer builds pinned versions of PyTorch3D and cuRobo. A CUDA toolkit containing `nvcc` is required; set `CUDA_HOME` to its directory if it is installed outside the conda environment. Package versions are recorded in [script/requirements.txt](script/requirements.txt), with source revisions in [docs/UPSTREAM_SNAPSHOTS.md](docs/UPSTREAM_SNAPSHOTS.md).
+
+If the environment or simulator configuration fails, follow the official
+[RoboTwin installation and configuration guide](https://github.com/RoboTwin-Platform/RoboTwin/blob/main/README.md), including its dependency, CUDA, and asset setup steps, and then return to the ActiveArena commands above.
 
 ### Simulation assets
 
