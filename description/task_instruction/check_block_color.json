@@ -1,0 +1,51 @@
+{
+ "full_description": "Pick up the gray target block, inspect the colored pad on its back side, and place it on the pad with the matching color.",
+ "schema": "{A} denotes the gray target block with a colored pad on its back side, {B} denotes the matching color pad, {a} denotes the arm used to move the block, {C} denotes the back-side pad color",
+ "preference": "Mention sorting by the colored pad on the block's back side. Keep instructions concise.",
+ "seen": [
+  "Pick up {A} and place it on {B}.",
+  "Use {a} to inspect the back of {A}, then move it onto the matching {C} pad.",
+  "Grab {A}, identify the {C} pad on its back side, and set it on {B}.",
+  "Lift {A}, check its back-side pad color, then put it down on the corresponding color pad.",
+  "Move the gray block to the pad matching the color on its back."
+ ],
+ "unseen": [
+  "Place the gray block on the pad matching its back-side color.",
+  "Pick the gray block and sort it by the colored pad on its back.",
+  "Move the block to the correct color pad after checking its back."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "pick up {A} with {a}"
+   ],
+   "unseen": [
+    "grasp the target block"
+   ]
+  },
+  "2": {
+   "seen": [
+    "inspect the back-side pad color on {A}"
+   ],
+   "unseen": [
+    "reveal the block's back color"
+   ]
+  },
+  "3": {
+   "seen": [
+    "restore {A} to the carried pose after inspection"
+   ],
+   "unseen": [
+    "return the block from the inspection pose"
+   ]
+  },
+  "4": {
+   "seen": [
+    "place {A} on {B} according to the back-side pad color"
+   ],
+   "unseen": [
+    "put the block on the matching color pad"
+   ]
+  }
+ }
+}

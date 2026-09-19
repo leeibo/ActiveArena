@@ -1,0 +1,20 @@
+{
+ "full_description": "Count how many unique block colors appear, then press the number button matching that color-kind count; from left to right the buttons represent 1, 2, and 3.",
+ "schema": "{A} denotes the appeared block colors, {B} denotes the matching number button, {C} denotes the color set, {a} denotes the arm used to press the button, {x} denotes the number of unique colors",
+ "preference": "Mention counting unique colors, not counting blocks, the left-to-right 1/2/3 button mapping, and pressing the matching button once. Do not reveal the counted answer in subtask instructions.",
+ "seen": [
+  "Count the unique colors in {A}, then press the matching button with {a}; the buttons are 1, 2, 3 from left to right.",
+  "Find how many different block colors appear and answer using the left-to-right 1/2/3 buttons.",
+  "Scan the blocks, count distinct colors, and press the matching number button.",
+  "Use {a} to press the matching button after identifying the color kinds."
+ ],
+ "unseen": [
+  "Count the different block colors and press the matching number button; left to right means 1, 2, and 3.",
+  "After counting unique colors, press the corresponding button once.",
+  "Press the button whose left-to-right order equals the count of visible color kinds."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {"seen": ["scan the blocks and count unique colors"], "unseen": ["count the distinct block colors"]},
+  "2": {"seen": ["press the button matching the counted result with {a}"], "unseen": ["push the matching number button"]}
+ }
+}

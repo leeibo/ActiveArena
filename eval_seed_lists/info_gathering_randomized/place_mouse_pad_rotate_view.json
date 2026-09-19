@@ -1,0 +1,1632 @@
+{
+  "format_version": 1,
+  "task_name": "place_mouse_pad_rotate_view",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 278,
+  "last_attempted_seed": 100277,
+  "next_seed": 100278,
+  "updated_at": "2026-07-09T11:26:04",
+  "elapsed_sec": 3009.045,
+  "seeds": [
+    100000,
+    100002,
+    100005,
+    100011,
+    100012,
+    100013,
+    100022,
+    100027,
+    100030,
+    100035,
+    100037,
+    100041,
+    100043,
+    100048,
+    100049,
+    100050,
+    100055,
+    100056,
+    100057,
+    100059,
+    100064,
+    100065,
+    100067,
+    100068,
+    100084,
+    100086,
+    100089,
+    100095,
+    100096,
+    100097,
+    100105,
+    100112,
+    100113,
+    100114,
+    100117,
+    100118,
+    100123,
+    100126,
+    100131,
+    100139,
+    100140,
+    100141,
+    100143,
+    100146,
+    100149,
+    100151,
+    100152,
+    100153,
+    100154,
+    100155,
+    100161,
+    100167,
+    100170,
+    100173,
+    100174,
+    100181,
+    100183,
+    100185,
+    100187,
+    100189,
+    100192,
+    100194,
+    100197,
+    100198,
+    100199,
+    100200,
+    100204,
+    100205,
+    100206,
+    100208,
+    100209,
+    100210,
+    100211,
+    100213,
+    100214,
+    100216,
+    100218,
+    100219,
+    100222,
+    100224,
+    100230,
+    100231,
+    100233,
+    100234,
+    100237,
+    100240,
+    100242,
+    100245,
+    100247,
+    100248,
+    100249,
+    100250,
+    100256,
+    100261,
+    100265,
+    100267,
+    100271,
+    100275,
+    100276,
+    100277
+  ],
+  "entries": [
+    {
+      "seed": 100000,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100002,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100005,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100011,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100012,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100013,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100022,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100027,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100030,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100035,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100037,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100041,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100043,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100048,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100049,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100050,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100055,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100056,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100057,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100059,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100064,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100065,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100067,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100068,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100084,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100086,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100089,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100095,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100096,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100097,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100105,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100112,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100113,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100114,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100117,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100118,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100123,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100126,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100131,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100139,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100140,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100141,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100143,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100146,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100149,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100151,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100152,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100153,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100154,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100155,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100161,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100167,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100170,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100173,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100174,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100181,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100183,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100185,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Yellow",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100187,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100189,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100192,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100194,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100197,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100198,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100199,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100200,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100204,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100205,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100206,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100208,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100209,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100210,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100211,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100213,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100214,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100216,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100218,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100219,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100222,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100224,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100230,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100231,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100233,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100234,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100237,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100240,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100242,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100245,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100247,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100248,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100249,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100250,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100256,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100261,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100265,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100267,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100271,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100275,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100276,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100277,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100001,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100003,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100004,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100006,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100007,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100008,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100009,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100010,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100014,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100015,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100016,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100017,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100019,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100020,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100021,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100023,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100024,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100025,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100026,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100028,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100029,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100031,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100032,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100033,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100034,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100036,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100038,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100039,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100040,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100042,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100044,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100045,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100046,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100047,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100051,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100052,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100053,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100054,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100058,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100060,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100061,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100062,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100063,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100066,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100069,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100070,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100071,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100072,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100073,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100074,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100075,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100077,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100078,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100079,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100080,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100081,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100082,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100083,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100085,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100087,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100088,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100090,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100091,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100092,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100093,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100094,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100098,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100099,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100100,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100101,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100102,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100103,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100104,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100106,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100107,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100108,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100109,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100110,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100111,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100115,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100116,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100119,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100120,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100121,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100122,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100124,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100127,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100128,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100129,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100130,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100132,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100133,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100134,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100135,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100136,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100137,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100138,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100142,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100144,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100145,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100147,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100148,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100150,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100156,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100157,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100158,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100159,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100160,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100162,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100163,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100164,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100165,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100166,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100168,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100169,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100171,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100172,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100175,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100176,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100177,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100178,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100179,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100180,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100182,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100184,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100186,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100188,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100190,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100191,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100193,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100195,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100196,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100201,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100202,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100203,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100207,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100212,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100215,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100217,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100220,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100221,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100223,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100225,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100226,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100227,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100228,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100229,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100232,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100235,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100236,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100238,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100239,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100241,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100243,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100244,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100246,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100251,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100252,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100253,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100254,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100255,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100257,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100258,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100259,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100260,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100262,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100263,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100264,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100266,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100268,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100269,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100270,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100272,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100273,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100274,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+ "full_description": "Pick up the can, inspect the pure color label on its back side, and sort it by label color.",
+ "schema": "{A} denotes the can with a backside color label, {B} and {C} denote the two candidate color areas, {a} denotes the arm used",
+ "preference": "Mention inspecting the backside color label and placing the can in the area with the matching color. Do not reveal the actual label color in the instruction.",
+ "seen": [
+  "Use {a} to pick up {A}, inspect the pure color label on its back side, and sort it into {B} or {C}.",
+  "Check the color label on the back of {A}; place it in the matching area among {B} and {C}.",
+  "Lift {A}, look at the backside color patch, and put the can in the matching color area.",
+  "Inspect the back-side color label on {A} and classify the can by label color."
+ ],
+ "unseen": [
+  "Sort the can by reading the color of its backside label.",
+  "Place the can in the matching color area after checking the back label.",
+  "Use the color patch on the can back to decide between {B} and {C}."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": ["pick up {A} with {a}"],
+   "unseen": ["lift the can for backside color inspection"]
+  },
+  "2": {
+   "seen": ["inspect the backside color label on {A}"],
+   "unseen": ["check the color patch on the can back side"]
+  },
+  "3": {
+   "seen": ["restore {A} to the carried pose after inspection"],
+   "unseen": ["return the can from the inspection pose"]
+  },
+  "4": {
+   "seen": ["place the can in the area whose color matches its backside label"],
+   "unseen": ["sort the can into the matching color area"]
+  }
+ }
+}

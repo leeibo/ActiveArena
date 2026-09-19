@@ -1,0 +1,4002 @@
+{
+  "format_version": 1,
+  "task_name": "place_object_basket_fan_double",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 782,
+  "last_attempted_seed": 100781,
+  "next_seed": 100782,
+  "updated_at": "2026-07-09T15:39:40",
+  "elapsed_sec": 8948.166,
+  "seeds": [
+    100019,
+    100024,
+    100036,
+    100044,
+    100061,
+    100066,
+    100072,
+    100082,
+    100084,
+    100086,
+    100088,
+    100093,
+    100123,
+    100127,
+    100133,
+    100138,
+    100144,
+    100160,
+    100163,
+    100164,
+    100168,
+    100170,
+    100171,
+    100175,
+    100177,
+    100184,
+    100187,
+    100194,
+    100197,
+    100204,
+    100209,
+    100228,
+    100230,
+    100233,
+    100242,
+    100243,
+    100269,
+    100283,
+    100293,
+    100295,
+    100311,
+    100314,
+    100316,
+    100324,
+    100328,
+    100338,
+    100342,
+    100368,
+    100393,
+    100404,
+    100414,
+    100419,
+    100420,
+    100424,
+    100432,
+    100435,
+    100436,
+    100439,
+    100446,
+    100452,
+    100466,
+    100471,
+    100477,
+    100493,
+    100502,
+    100523,
+    100550,
+    100559,
+    100563,
+    100566,
+    100575,
+    100578,
+    100590,
+    100592,
+    100606,
+    100607,
+    100614,
+    100620,
+    100631,
+    100641,
+    100643,
+    100646,
+    100647,
+    100676,
+    100702,
+    100703,
+    100713,
+    100715,
+    100716,
+    100718,
+    100729,
+    100730,
+    100744,
+    100753,
+    100761,
+    100765,
+    100768,
+    100770,
+    100772,
+    100781
+  ],
+  "entries": [
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100024,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100036,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100044,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100061,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100082,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100084,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100086,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100088,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100093,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100123,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100127,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100133,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100138,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100144,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100160,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100163,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100164,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100168,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100170,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100171,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100175,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100177,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100184,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100187,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100194,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100197,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100204,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100209,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100228,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100230,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100233,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100242,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100243,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100269,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100283,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100293,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100295,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100311,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100314,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100316,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100324,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100328,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100338,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100342,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100368,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100393,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100404,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100414,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100419,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100420,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100424,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100432,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100435,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100436,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100439,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100446,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100452,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100466,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100471,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100477,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100493,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100502,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100523,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100550,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100559,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100563,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100566,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100575,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100578,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100590,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100592,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100606,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100607,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100614,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100620,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100631,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100641,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100643,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100646,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100647,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100676,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100702,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100703,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100713,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100715,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100716,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100718,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100729,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100730,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100744,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100753,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100761,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100765,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100768,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100770,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100772,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100781,
+      "info": {
+        "{A}": "can",
+        "{B}": "bread basket",
+        "{a}": "left"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100000,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100000), unstable objects: bowl"
+    },
+    {
+      "seed": 100001,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100001), unstable objects: 071_can"
+    },
+    {
+      "seed": 100002,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100002), unstable objects: toothbrush, toothbrush"
+    },
+    {
+      "seed": 100003,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100003), unstable objects: bowl"
+    },
+    {
+      "seed": 100004,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100005,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100006,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100007,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100007), unstable objects: can"
+    },
+    {
+      "seed": 100008,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100009,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100009), unstable objects: steel_tape, toy_car"
+    },
+    {
+      "seed": 100010,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100010), unstable objects: can, remote"
+    },
+    {
+      "seed": 100011,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100011), unstable objects: bowl"
+    },
+    {
+      "seed": 100012,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100013,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100014,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100014), unstable objects: 071_can, spoon"
+    },
+    {
+      "seed": 100015,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100015), unstable objects: toy_car"
+    },
+    {
+      "seed": 100016,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100017,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100020,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100021,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100022,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100023,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100023), unstable objects: 071_can"
+    },
+    {
+      "seed": 100025,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100025), unstable objects: toy_car"
+    },
+    {
+      "seed": 100026,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100027,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100027), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100028,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100029,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100030,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100031,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100031), unstable objects: 071_can, toothbrush, steel_tape"
+    },
+    {
+      "seed": 100032,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100033,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100033), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100034,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100035,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100035), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100037,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100037), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100038,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100039,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100040,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100041,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100041), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100042,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100043,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100045,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100046,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100047,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100047), unstable objects: spoon"
+    },
+    {
+      "seed": 100048,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100049,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100050,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100051,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100051), unstable objects: 071_can"
+    },
+    {
+      "seed": 100052,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100052), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100053,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100054,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100054), unstable objects: steel_tape, steel_tape"
+    },
+    {
+      "seed": 100055,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100055), unstable objects: snack_box, can"
+    },
+    {
+      "seed": 100056,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100056), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100057,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100057), unstable objects: steel_tape, spoon"
+    },
+    {
+      "seed": 100058,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100058), unstable objects: spoon"
+    },
+    {
+      "seed": 100059,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100059), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100060,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100062,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100062), unstable objects: snack_box"
+    },
+    {
+      "seed": 100063,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100064,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100064), unstable objects: toothbrush, toothbrush"
+    },
+    {
+      "seed": 100065,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100065), unstable objects: can, bowl"
+    },
+    {
+      "seed": 100067,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100067), unstable objects: steel_tape, steel_tape"
+    },
+    {
+      "seed": 100068,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100068), unstable objects: 071_can, spoon"
+    },
+    {
+      "seed": 100069,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100070,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100071,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100073,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100073), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100074,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100074), unstable objects: spoon"
+    },
+    {
+      "seed": 100075,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100075), unstable objects: can, can"
+    },
+    {
+      "seed": 100076,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100076), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100077,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100077), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100078,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100079,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100079), unstable objects: marker"
+    },
+    {
+      "seed": 100080,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100080), unstable objects: 071_can"
+    },
+    {
+      "seed": 100081,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100083,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100083), unstable objects: spoon"
+    },
+    {
+      "seed": 100085,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100087,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100087), unstable objects: tissue"
+    },
+    {
+      "seed": 100089,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100090,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100090), unstable objects: spoon"
+    },
+    {
+      "seed": 100091,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100092,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100094,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100094), unstable objects: snack_box, can"
+    },
+    {
+      "seed": 100095,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100095), unstable objects: 071_can"
+    },
+    {
+      "seed": 100096,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100097,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100098,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100099,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100100,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100100), unstable objects: can, steel_tape"
+    },
+    {
+      "seed": 100101,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100102,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100102), unstable objects: 071_can, toy_car"
+    },
+    {
+      "seed": 100103,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100104,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100105,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100105), unstable objects: 071_can, can"
+    },
+    {
+      "seed": 100106,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100106), unstable objects: bowl"
+    },
+    {
+      "seed": 100107,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100107), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100108,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100108), unstable objects: bowl"
+    },
+    {
+      "seed": 100109,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100110,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100110), unstable objects: toy_car"
+    },
+    {
+      "seed": 100111,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100112,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100112), unstable objects: 071_can, spoon"
+    },
+    {
+      "seed": 100113,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100113), unstable objects: bowl"
+    },
+    {
+      "seed": 100114,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100114), unstable objects: 071_can"
+    },
+    {
+      "seed": 100115,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100116,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100116), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100117,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100117), unstable objects: 071_can, spoon"
+    },
+    {
+      "seed": 100118,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100119,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100120,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100121,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100122,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100124,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100126,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100126), unstable objects: snack_box"
+    },
+    {
+      "seed": 100128,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100128), unstable objects: 071_can, spoon"
+    },
+    {
+      "seed": 100129,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100129), unstable objects: spoon, toothbrush"
+    },
+    {
+      "seed": 100130,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100131,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100132,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100134,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100134), unstable objects: bowl"
+    },
+    {
+      "seed": 100135,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100136,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100137,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100139,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100140,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100140), unstable objects: 071_can"
+    },
+    {
+      "seed": 100141,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100142,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100143,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100145,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100146,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100146), unstable objects: bowl, toy_car"
+    },
+    {
+      "seed": 100147,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100147), unstable objects: 071_can"
+    },
+    {
+      "seed": 100148,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100149,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100150,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100150), unstable objects: 071_can"
+    },
+    {
+      "seed": 100151,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100152,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100153,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100153), unstable objects: 071_can"
+    },
+    {
+      "seed": 100154,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100154), unstable objects: snack_box"
+    },
+    {
+      "seed": 100155,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100156,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100157,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100157), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100158,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100158), unstable objects: 071_can"
+    },
+    {
+      "seed": 100159,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100161,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100161), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100162,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100165,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100166,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100167,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100169,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100169), unstable objects: 071_can"
+    },
+    {
+      "seed": 100172,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100173,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100173), unstable objects: spoon, can, toy_car"
+    },
+    {
+      "seed": 100174,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100174), unstable objects: bowl"
+    },
+    {
+      "seed": 100176,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100178,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100179,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100179), unstable objects: tissue"
+    },
+    {
+      "seed": 100180,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100181,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100181), unstable objects: 071_can"
+    },
+    {
+      "seed": 100182,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100183,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100185,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100186,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100186), unstable objects: spoon"
+    },
+    {
+      "seed": 100188,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100188), unstable objects: can"
+    },
+    {
+      "seed": 100189,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100189), unstable objects: snack_box"
+    },
+    {
+      "seed": 100190,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100191,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100191), unstable objects: steel_tape, steel_tape"
+    },
+    {
+      "seed": 100192,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100193,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100195,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100196,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100196), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100198,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100199,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100199), unstable objects: tissue"
+    },
+    {
+      "seed": 100200,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100201,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100201), unstable objects: 071_can"
+    },
+    {
+      "seed": 100202,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100203,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100203), unstable objects: 071_can, spoon"
+    },
+    {
+      "seed": 100205,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100205), unstable objects: toy_car"
+    },
+    {
+      "seed": 100206,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100206), unstable objects: plate"
+    },
+    {
+      "seed": 100207,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100208,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100210,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100210), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100211,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100211), unstable objects: 071_can"
+    },
+    {
+      "seed": 100212,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100213,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100213), unstable objects: spoon"
+    },
+    {
+      "seed": 100214,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100214), unstable objects: toy_car"
+    },
+    {
+      "seed": 100215,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100216,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100217,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100217), unstable objects: spoon"
+    },
+    {
+      "seed": 100218,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100219,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100219), unstable objects: 071_can"
+    },
+    {
+      "seed": 100220,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100220), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100221,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100221), unstable objects: bowl"
+    },
+    {
+      "seed": 100222,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100223,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100224,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100225,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100225), unstable objects: toy_car, can"
+    },
+    {
+      "seed": 100226,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100226), unstable objects: 071_can"
+    },
+    {
+      "seed": 100227,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100227), unstable objects: 071_can, steel_tape"
+    },
+    {
+      "seed": 100229,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100229), unstable objects: spoon"
+    },
+    {
+      "seed": 100231,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100232,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100234,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100235,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100236,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100236), unstable objects: bowl"
+    },
+    {
+      "seed": 100237,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100238,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100239,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100240,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100240), unstable objects: toy_car"
+    },
+    {
+      "seed": 100241,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100244,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100245,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100245), unstable objects: 071_can, bowl"
+    },
+    {
+      "seed": 100246,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100246), unstable objects: 071_can, steel_tape"
+    },
+    {
+      "seed": 100247,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100247), unstable objects: 071_can, steel_tape"
+    },
+    {
+      "seed": 100248,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100248), unstable objects: steel_tape, brush"
+    },
+    {
+      "seed": 100249,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100250,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100250), unstable objects: marker, spoon"
+    },
+    {
+      "seed": 100251,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100251), unstable objects: marker"
+    },
+    {
+      "seed": 100252,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100253,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100253), unstable objects: 071_can, toy_car"
+    },
+    {
+      "seed": 100254,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100255,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100255), unstable objects: toy_car"
+    },
+    {
+      "seed": 100256,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100256), unstable objects: can"
+    },
+    {
+      "seed": 100257,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100258,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100259,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100260,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100260), unstable objects: tissue"
+    },
+    {
+      "seed": 100261,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100261), unstable objects: toy_car"
+    },
+    {
+      "seed": 100262,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100262), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100263,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100263), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100264,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100265,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100266,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100267,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100268,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100268), unstable objects: bowl"
+    },
+    {
+      "seed": 100270,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100271,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100271), unstable objects: 071_can"
+    },
+    {
+      "seed": 100272,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100272), unstable objects: snack_box"
+    },
+    {
+      "seed": 100273,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100274,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100275,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100276,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100276), unstable objects: 071_can, spoon, can"
+    },
+    {
+      "seed": 100277,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100278,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100279,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100279), unstable objects: 071_can, tissue"
+    },
+    {
+      "seed": 100280,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100281,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100281), unstable objects: toy_car"
+    },
+    {
+      "seed": 100282,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100284,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100285,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100286,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100286), unstable objects: bowl, spoon"
+    },
+    {
+      "seed": 100287,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100288,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100288), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100289,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100290,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100290), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100291,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100292,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100292), unstable objects: spoon"
+    },
+    {
+      "seed": 100294,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100296,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100296), unstable objects: brush"
+    },
+    {
+      "seed": 100297,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100298,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100299,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100300,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100301,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100301), unstable objects: steel_tape, steel_tape, tissue"
+    },
+    {
+      "seed": 100302,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100303,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100303), unstable objects: 071_can, bowl"
+    },
+    {
+      "seed": 100304,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100304), unstable objects: spoon"
+    },
+    {
+      "seed": 100305,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100305), unstable objects: 071_can, steel_tape"
+    },
+    {
+      "seed": 100306,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100306), unstable objects: toy_car, steel_tape"
+    },
+    {
+      "seed": 100307,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100308,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100308), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100309,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100310,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100312,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100313,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100315,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100317,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100318,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100319,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100320,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100320), unstable objects: 071_can"
+    },
+    {
+      "seed": 100321,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100322,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100323,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100323), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100325,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100326,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100327,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100329,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100329), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100330,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100330), unstable objects: 071_can, toy_car"
+    },
+    {
+      "seed": 100331,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100331), unstable objects: 071_can"
+    },
+    {
+      "seed": 100332,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100333,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100333), unstable objects: 071_can"
+    },
+    {
+      "seed": 100334,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100335,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100336,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100337,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100339,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100340,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100340), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100341,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100341), unstable objects: bowl"
+    },
+    {
+      "seed": 100343,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100344,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100344), unstable objects: 071_can, tissue"
+    },
+    {
+      "seed": 100345,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100346,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100346), unstable objects: 071_can"
+    },
+    {
+      "seed": 100347,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100347), unstable objects: spoon"
+    },
+    {
+      "seed": 100348,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100348), unstable objects: tissue"
+    },
+    {
+      "seed": 100349,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100349), unstable objects: 071_can"
+    },
+    {
+      "seed": 100350,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100350), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100351,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100352,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100353,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100354,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100355,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100355), unstable objects: 071_can, steel_tape"
+    },
+    {
+      "seed": 100356,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100356), unstable objects: bowl"
+    },
+    {
+      "seed": 100357,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100357), unstable objects: 071_can, tissue, spoon"
+    },
+    {
+      "seed": 100358,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100359,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100359), unstable objects: 071_can"
+    },
+    {
+      "seed": 100360,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100361,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100361), unstable objects: 071_can"
+    },
+    {
+      "seed": 100362,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100362), unstable objects: snack_box"
+    },
+    {
+      "seed": 100363,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100364,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100365,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100365), unstable objects: 071_can"
+    },
+    {
+      "seed": 100366,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100366), unstable objects: marker, spoon"
+    },
+    {
+      "seed": 100367,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100369,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100370,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100370), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100371,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100372,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100372), unstable objects: 071_can"
+    },
+    {
+      "seed": 100373,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100373), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100374,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100375,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100376,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100377,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100378,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100379,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100379), unstable objects: ramen_box"
+    },
+    {
+      "seed": 100380,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100380), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100381,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100381), unstable objects: can"
+    },
+    {
+      "seed": 100382,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100382), unstable objects: 071_can"
+    },
+    {
+      "seed": 100383,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100383), unstable objects: bowl, brush"
+    },
+    {
+      "seed": 100384,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100385,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100386,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100386), unstable objects: 071_can"
+    },
+    {
+      "seed": 100387,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100387), unstable objects: toy_car"
+    },
+    {
+      "seed": 100388,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100388), unstable objects: spoon"
+    },
+    {
+      "seed": 100389,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100389), unstable objects: 071_can"
+    },
+    {
+      "seed": 100390,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100390), unstable objects: remote"
+    },
+    {
+      "seed": 100391,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100391), unstable objects: 071_can"
+    },
+    {
+      "seed": 100392,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100392), unstable objects: snack_box"
+    },
+    {
+      "seed": 100394,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100395,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100396,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100397,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100397), unstable objects: 071_can"
+    },
+    {
+      "seed": 100398,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100398), unstable objects: 071_can, toy_car"
+    },
+    {
+      "seed": 100399,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100399), unstable objects: toy_car, snack_box"
+    },
+    {
+      "seed": 100400,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100400), unstable objects: toy_car"
+    },
+    {
+      "seed": 100401,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100401), unstable objects: steel_tape, tissue, bowl"
+    },
+    {
+      "seed": 100402,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100402), unstable objects: 071_can, toy_car"
+    },
+    {
+      "seed": 100403,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100403), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100405,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100406,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100407,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100408,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100408), unstable objects: 071_can, spoon"
+    },
+    {
+      "seed": 100409,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100409), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100410,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100410), unstable objects: 071_can"
+    },
+    {
+      "seed": 100411,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100412,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100412), unstable objects: 071_can"
+    },
+    {
+      "seed": 100413,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100415,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100416,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100416), unstable objects: snack_box"
+    },
+    {
+      "seed": 100417,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100417), unstable objects: marker"
+    },
+    {
+      "seed": 100418,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100421,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100422,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100422), unstable objects: can, spoon"
+    },
+    {
+      "seed": 100423,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100423), unstable objects: 071_can, bowl"
+    },
+    {
+      "seed": 100425,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100425), unstable objects: toy_car"
+    },
+    {
+      "seed": 100426,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100426), unstable objects: tissue"
+    },
+    {
+      "seed": 100427,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100428,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100429,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100429), unstable objects: 071_can, snack_box"
+    },
+    {
+      "seed": 100430,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100431,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100431), unstable objects: 071_can"
+    },
+    {
+      "seed": 100433,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100433), unstable objects: bowl"
+    },
+    {
+      "seed": 100434,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100434), unstable objects: bowl"
+    },
+    {
+      "seed": 100437,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100438,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100440,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100441,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100442,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100443,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100444,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100445,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100445), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100447,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100447), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100448,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100448), unstable objects: spoon"
+    },
+    {
+      "seed": 100449,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100450,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100450), unstable objects: snack_box, steel_tape"
+    },
+    {
+      "seed": 100451,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100451), unstable objects: snack_package"
+    },
+    {
+      "seed": 100453,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100453), unstable objects: 071_can"
+    },
+    {
+      "seed": 100454,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100455,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100456,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100456), unstable objects: tissue"
+    },
+    {
+      "seed": 100457,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100457), unstable objects: marker"
+    },
+    {
+      "seed": 100458,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100459,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100459), unstable objects: toy_car"
+    },
+    {
+      "seed": 100460,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100460), unstable objects: spoon, remote"
+    },
+    {
+      "seed": 100461,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100462,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100463,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100464,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100464), unstable objects: toothbrush, steel_tape"
+    },
+    {
+      "seed": 100465,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100465), unstable objects: can"
+    },
+    {
+      "seed": 100467,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100467), unstable objects: toy_car"
+    },
+    {
+      "seed": 100468,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100469,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100470,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100470), unstable objects: 071_can"
+    },
+    {
+      "seed": 100472,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100473,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100473), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100474,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100474), unstable objects: bowl"
+    },
+    {
+      "seed": 100475,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100475), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100476,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100476), unstable objects: toy_car"
+    },
+    {
+      "seed": 100478,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100479,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100479), unstable objects: can"
+    },
+    {
+      "seed": 100480,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100480), unstable objects: 071_can, spoon"
+    },
+    {
+      "seed": 100481,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100481), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100482,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100482), unstable objects: 071_can, bowl"
+    },
+    {
+      "seed": 100483,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100483), unstable objects: 071_can, bowl"
+    },
+    {
+      "seed": 100484,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100485,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100486,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100486), unstable objects: toy_car"
+    },
+    {
+      "seed": 100487,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100487), unstable objects: bowl"
+    },
+    {
+      "seed": 100488,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100489,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100489), unstable objects: spoon"
+    },
+    {
+      "seed": 100490,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100490), unstable objects: 071_can, snack_box"
+    },
+    {
+      "seed": 100491,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100491), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100492,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100494,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100494), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100495,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100495), unstable objects: remote"
+    },
+    {
+      "seed": 100496,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100497,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100498,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100499,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100500,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100501,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100501), unstable objects: snack_box"
+    },
+    {
+      "seed": 100503,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100504,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100505,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100505), unstable objects: toy_car"
+    },
+    {
+      "seed": 100506,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100506), unstable objects: 071_can, toothbrush"
+    },
+    {
+      "seed": 100507,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100508,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100509,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100509), unstable objects: bowl"
+    },
+    {
+      "seed": 100510,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100511,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100511), unstable objects: 071_can, snack_box"
+    },
+    {
+      "seed": 100512,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100512), unstable objects: 071_can"
+    },
+    {
+      "seed": 100513,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100514,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100515,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100516,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100516), unstable objects: toy_car"
+    },
+    {
+      "seed": 100517,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100517), unstable objects: 071_can"
+    },
+    {
+      "seed": 100518,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100519,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100520,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100520), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100521,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100522,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100522), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100524,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100525,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100526,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100526), unstable objects: spoon"
+    },
+    {
+      "seed": 100527,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100527), unstable objects: steel_tape, steel_tape"
+    },
+    {
+      "seed": 100528,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100528), unstable objects: can"
+    },
+    {
+      "seed": 100529,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100529), unstable objects: toy_car"
+    },
+    {
+      "seed": 100530,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100531,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100531), unstable objects: 071_can"
+    },
+    {
+      "seed": 100532,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100533,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100533), unstable objects: tape, marker"
+    },
+    {
+      "seed": 100534,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100534), unstable objects: 071_can, toy_car"
+    },
+    {
+      "seed": 100535,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100535), unstable objects: 071_can, toothbrush"
+    },
+    {
+      "seed": 100536,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100536), unstable objects: 071_can, toy_car"
+    },
+    {
+      "seed": 100537,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100538,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100538), unstable objects: steel_tape, steel_tape"
+    },
+    {
+      "seed": 100539,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100539), unstable objects: bowl"
+    },
+    {
+      "seed": 100540,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100541,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100542,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100543,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100543), unstable objects: 071_can"
+    },
+    {
+      "seed": 100544,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100545,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100545), unstable objects: toy_car"
+    },
+    {
+      "seed": 100546,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100546), unstable objects: bowl"
+    },
+    {
+      "seed": 100547,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100548,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100548), unstable objects: steel_tape, can"
+    },
+    {
+      "seed": 100549,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100549), unstable objects: toy_car"
+    },
+    {
+      "seed": 100551,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100552,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100552), unstable objects: spoon"
+    },
+    {
+      "seed": 100553,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100553), unstable objects: bowl"
+    },
+    {
+      "seed": 100554,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100555,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100556,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100556), unstable objects: spoon, spoon, toy_car"
+    },
+    {
+      "seed": 100557,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100558,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100560,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100560), unstable objects: 071_can"
+    },
+    {
+      "seed": 100561,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100561), unstable objects: can, spoon"
+    },
+    {
+      "seed": 100562,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100562), unstable objects: toy_car"
+    },
+    {
+      "seed": 100564,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100564), unstable objects: 071_can"
+    },
+    {
+      "seed": 100565,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100567,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100567), unstable objects: 071_can, can"
+    },
+    {
+      "seed": 100568,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100569,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100570,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100570), unstable objects: 071_can"
+    },
+    {
+      "seed": 100571,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100571), unstable objects: toy_car"
+    },
+    {
+      "seed": 100572,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100573,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100573), unstable objects: spoon, spoon"
+    },
+    {
+      "seed": 100574,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100576,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100576), unstable objects: marker"
+    },
+    {
+      "seed": 100577,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100577), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100579,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100579), unstable objects: bowl"
+    },
+    {
+      "seed": 100580,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100580), unstable objects: steel_tape, can, spoon"
+    },
+    {
+      "seed": 100581,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100582,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100582), unstable objects: bowl"
+    },
+    {
+      "seed": 100583,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100583), unstable objects: bowl"
+    },
+    {
+      "seed": 100584,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100584), unstable objects: brush"
+    },
+    {
+      "seed": 100585,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100585), unstable objects: 071_can"
+    },
+    {
+      "seed": 100586,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100587,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100587), unstable objects: 071_can"
+    },
+    {
+      "seed": 100588,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100589,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100589), unstable objects: toy_car"
+    },
+    {
+      "seed": 100591,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100593,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100594,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100595,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100596,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100597,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100598,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100599,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100599), unstable objects: 071_can"
+    },
+    {
+      "seed": 100600,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100601,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100601), unstable objects: bowl"
+    },
+    {
+      "seed": 100602,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100602), unstable objects: spoon"
+    },
+    {
+      "seed": 100603,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100603), unstable objects: 071_can"
+    },
+    {
+      "seed": 100604,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100604), unstable objects: bowl"
+    },
+    {
+      "seed": 100605,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100605), unstable objects: can"
+    },
+    {
+      "seed": 100608,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100608), unstable objects: 071_can"
+    },
+    {
+      "seed": 100609,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100610,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100610), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100611,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100611), unstable objects: bowl"
+    },
+    {
+      "seed": 100612,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100612), unstable objects: toy_car"
+    },
+    {
+      "seed": 100613,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100613), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100615,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100615), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100616,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100617,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100617), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100618,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100618), unstable objects: tissue"
+    },
+    {
+      "seed": 100619,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100619), unstable objects: spoon"
+    },
+    {
+      "seed": 100621,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100622,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100623,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100623), unstable objects: toy_car"
+    },
+    {
+      "seed": 100624,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100625,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100626,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100627,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100628,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100629,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100629), unstable objects: 071_can"
+    },
+    {
+      "seed": 100630,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100630), unstable objects: toy_car"
+    },
+    {
+      "seed": 100632,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100633,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100634,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100634), unstable objects: 071_can, marker, snack_box"
+    },
+    {
+      "seed": 100635,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100636,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100637,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100637), unstable objects: spoon"
+    },
+    {
+      "seed": 100638,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100638), unstable objects: can"
+    },
+    {
+      "seed": 100639,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100640,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100640), unstable objects: marker"
+    },
+    {
+      "seed": 100642,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100642), unstable objects: 071_can, toy_car"
+    },
+    {
+      "seed": 100644,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100644), unstable objects: 071_can"
+    },
+    {
+      "seed": 100645,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100648,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100649,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100649), unstable objects: 071_can"
+    },
+    {
+      "seed": 100650,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100651,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100651), unstable objects: toothbrush, bowl"
+    },
+    {
+      "seed": 100652,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100653,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100654,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100655,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100655), unstable objects: toy_car"
+    },
+    {
+      "seed": 100656,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100657,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100658,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100659,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100660,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100661,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100662,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100663,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100664,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100664), unstable objects: spoon, toothbrush"
+    },
+    {
+      "seed": 100665,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100665), unstable objects: bowl"
+    },
+    {
+      "seed": 100666,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100667,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100667), unstable objects: 071_can"
+    },
+    {
+      "seed": 100668,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100669,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100669), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100670,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100671,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100671), unstable objects: spoon"
+    },
+    {
+      "seed": 100672,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100673,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100674,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100674), unstable objects: toothbrush, brush"
+    },
+    {
+      "seed": 100675,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100675), unstable objects: 071_can"
+    },
+    {
+      "seed": 100677,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100678,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100678), unstable objects: snack_box"
+    },
+    {
+      "seed": 100679,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100679), unstable objects: 071_can"
+    },
+    {
+      "seed": 100680,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100680), unstable objects: toy_car"
+    },
+    {
+      "seed": 100681,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100681), unstable objects: toothbrush, brush"
+    },
+    {
+      "seed": 100682,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100682), unstable objects: bowl, snack_box"
+    },
+    {
+      "seed": 100683,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100683), unstable objects: 071_can"
+    },
+    {
+      "seed": 100684,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100684), unstable objects: spoon"
+    },
+    {
+      "seed": 100685,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100686,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100687,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100687), unstable objects: 071_can"
+    },
+    {
+      "seed": 100688,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100688), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100689,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100689), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100690,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100691,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100691), unstable objects: tissue"
+    },
+    {
+      "seed": 100692,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100692), unstable objects: 071_can, toy_car"
+    },
+    {
+      "seed": 100693,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100694,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100694), unstable objects: bowl"
+    },
+    {
+      "seed": 100695,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100695), unstable objects: marker"
+    },
+    {
+      "seed": 100696,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100696), unstable objects: spoon, bowl"
+    },
+    {
+      "seed": 100697,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100697), unstable objects: toy_car"
+    },
+    {
+      "seed": 100698,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100698), unstable objects: 071_can"
+    },
+    {
+      "seed": 100699,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100700,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100700), unstable objects: 071_can"
+    },
+    {
+      "seed": 100701,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100701), unstable objects: toy_car"
+    },
+    {
+      "seed": 100704,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100705,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100706,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100706), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100707,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100707), unstable objects: 071_can, tissue"
+    },
+    {
+      "seed": 100708,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100709,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100709), unstable objects: can"
+    },
+    {
+      "seed": 100710,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100711,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100712,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100714,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100714), unstable objects: 071_can, bowl, steel_tape"
+    },
+    {
+      "seed": 100717,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100717), unstable objects: 071_can"
+    },
+    {
+      "seed": 100719,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100720,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100721,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100721), unstable objects: brush"
+    },
+    {
+      "seed": 100722,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100722), unstable objects: marker, spoon"
+    },
+    {
+      "seed": 100723,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100724,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100724), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100725,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100725), unstable objects: spoon"
+    },
+    {
+      "seed": 100726,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100726), unstable objects: can"
+    },
+    {
+      "seed": 100727,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100728,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100728), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100731,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100731), unstable objects: tissue"
+    },
+    {
+      "seed": 100732,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100732), unstable objects: spoon"
+    },
+    {
+      "seed": 100733,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100733), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100734,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100734), unstable objects: 071_can, spoon"
+    },
+    {
+      "seed": 100735,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100735), unstable objects: 071_can"
+    },
+    {
+      "seed": 100736,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100736), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100737,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100738,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100739,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100740,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100741,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100741), unstable objects: can"
+    },
+    {
+      "seed": 100742,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100743,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100743), unstable objects: 071_can"
+    },
+    {
+      "seed": 100745,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100745), unstable objects: snack_box"
+    },
+    {
+      "seed": 100746,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100746), unstable objects: 071_can"
+    },
+    {
+      "seed": 100747,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100748,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100749,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100749), unstable objects: tissue"
+    },
+    {
+      "seed": 100750,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100750), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100751,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100751), unstable objects: bowl"
+    },
+    {
+      "seed": 100752,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100754,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100754), unstable objects: steel_tape, toothbrush"
+    },
+    {
+      "seed": 100755,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100755), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100756,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100757,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100757), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100758,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100759,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100759), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100760,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100760), unstable objects: 071_can"
+    },
+    {
+      "seed": 100762,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100762), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100763,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100763), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100764,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100764), unstable objects: 071_can"
+    },
+    {
+      "seed": 100766,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100767,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100767), unstable objects: tape"
+    },
+    {
+      "seed": 100769,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100771,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100771), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100773,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100774,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100774), unstable objects: toy_car, toothbrush"
+    },
+    {
+      "seed": 100775,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100776,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100777,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100777), unstable objects: toy_car"
+    },
+    {
+      "seed": 100778,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100778), unstable objects: spoon"
+    },
+    {
+      "seed": 100779,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100779), unstable objects: 071_can"
+    },
+    {
+      "seed": 100780,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

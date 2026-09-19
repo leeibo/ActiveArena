@@ -1,0 +1,929 @@
+{
+  "format_version": 1,
+  "task_name": "place_empty_cup_rotate_view",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 127,
+  "last_attempted_seed": 100126,
+  "next_seed": 100127,
+  "updated_at": "2026-07-09T06:57:41",
+  "elapsed_sec": 1390.357,
+  "seeds": [
+    100000,
+    100001,
+    100002,
+    100004,
+    100005,
+    100007,
+    100008,
+    100009,
+    100010,
+    100012,
+    100013,
+    100014,
+    100015,
+    100016,
+    100017,
+    100019,
+    100020,
+    100021,
+    100023,
+    100024,
+    100027,
+    100029,
+    100030,
+    100031,
+    100032,
+    100033,
+    100034,
+    100035,
+    100037,
+    100038,
+    100039,
+    100041,
+    100042,
+    100043,
+    100044,
+    100046,
+    100047,
+    100048,
+    100049,
+    100050,
+    100051,
+    100052,
+    100053,
+    100054,
+    100056,
+    100058,
+    100059,
+    100060,
+    100062,
+    100064,
+    100065,
+    100066,
+    100067,
+    100069,
+    100070,
+    100071,
+    100072,
+    100073,
+    100074,
+    100075,
+    100077,
+    100078,
+    100079,
+    100080,
+    100083,
+    100084,
+    100086,
+    100087,
+    100088,
+    100089,
+    100090,
+    100092,
+    100093,
+    100094,
+    100095,
+    100096,
+    100097,
+    100100,
+    100101,
+    100102,
+    100103,
+    100104,
+    100105,
+    100106,
+    100109,
+    100110,
+    100111,
+    100112,
+    100114,
+    100115,
+    100117,
+    100118,
+    100119,
+    100120,
+    100121,
+    100122,
+    100123,
+    100124,
+    100125,
+    100126
+  ],
+  "entries": [
+    {
+      "seed": 100000,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100001,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100002,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100004,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100005,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100007,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100008,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100009,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100010,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100012,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100013,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100014,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100015,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100016,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100017,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100020,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100021,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100023,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100024,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100027,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100029,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100030,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100031,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100032,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100033,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100034,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100035,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100037,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100041,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100042,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100043,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100044,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100046,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100047,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100048,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100049,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100050,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100051,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100052,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100053,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100054,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100056,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100058,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100059,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100060,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100062,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100064,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100065,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100067,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100069,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100070,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100073,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100074,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100077,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100078,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100079,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100080,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100083,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100084,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100086,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100087,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100088,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100089,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100090,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100092,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100093,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100094,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100095,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100096,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100097,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100100,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100101,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100102,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100103,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100104,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100105,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100106,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100109,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100110,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100111,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100112,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100114,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100115,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100117,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100118,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100119,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100120,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100121,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100122,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100123,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100124,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100125,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    },
+    {
+      "seed": 100126,
+      "info": {
+        "{A}": "empty cup",
+        "{B}": "coaster"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100003,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100006,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100011,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100022,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100025,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100026,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100028,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100036,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100040,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100045,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100055,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100057,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100061,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100063,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100068,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100081,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100082,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100085,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100091,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100091), unstable objects: 021_cup"
+    },
+    {
+      "seed": 100098,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100099,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100107,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100108,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100113,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100116,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

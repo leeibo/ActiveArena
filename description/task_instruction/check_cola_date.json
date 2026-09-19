@@ -1,0 +1,34 @@
+{
+ "full_description": "Given today's date and the shelf life, pick up the cola can, inspect the production date label on its back side, and sort it by whether it is expired.",
+ "schema": "{A} denotes the cola can with a backside production date label, {B} denotes the red expired area, {C} denotes the blue valid area, {D} denotes the shelf life, {E} denotes today's date, {a} denotes the arm used",
+ "preference": "Mention today's date and the shelf life, but do not reveal the production date; the robot must inspect the backside production date and place expired cans in the red area or valid cans in the blue area.",
+ "seen": [
+  "Today is {E}. The shelf life is {D}. Use {a} to pick up {A}, inspect its backside production date, and sort it into {B} or {C}.",
+  "Given today's date {E} and a shelf life of {D}, check the production date on the back of {A}; place expired cans in {B}, otherwise place them in {C}.",
+  "Use {a} to lift {A}. Today is {E}, and cola cans expire after {D}; read the backside production date and put the can in the correct area.",
+  "With today set to {E} and shelf life set to {D}, inspect the back-side date label on {A} and classify the can by expiry status."
+ ],
+ "unseen": [
+  "Today is {E}, and the shelf life is {D}. Sort the can by reading its backside production date.",
+  "Using {E} as today's date and {D} as the shelf life, place the can in the expired or valid area after checking the date label.",
+  "Compare the production date on the can back against today's date {E} and shelf life {D}, then decide between the red and blue areas."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": ["pick up {A} with {a}"],
+   "unseen": ["lift the can for backside inspection"]
+  },
+  "2": {
+   "seen": ["inspect the backside production date on {A}"],
+   "unseen": ["read the date label on the can back side"]
+  },
+  "3": {
+   "seen": ["restore {A} to the carried pose after inspection"],
+   "unseen": ["return the can from the inspection pose"]
+  },
+  "4": {
+   "seen": ["today is {E} and the shelf life is {D}; place the can in {B} if expired, otherwise in {C}"],
+   "unseen": ["using today's date {E} and shelf life {D}, sort the can into the correct expiry area"]
+  }
+ }
+}

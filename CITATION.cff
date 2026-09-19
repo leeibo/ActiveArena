@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: ActiveArena
+message: >-
+  If you use this software, cite ActiveArena. A temporary manuscript citation
+  is available in README.md; verified paper author and publication metadata
+  will be added when available.
+type: software
+authors:
+  - name: ActiveArena contributors
+abstract: >-
+  A simulator, benchmark, data toolkit, and fixed-seed evaluator for active
+  perception in robotic manipulation.
+keywords:
+  - active-perception
+  - robot-learning
+  - robotic-manipulation
+  - vision-language-action
+license: MIT

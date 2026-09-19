@@ -1,0 +1,40 @@
+{
+ "full_description": "Place {A} into {B}; the blocks start on the upper layer and the plate is on the lower layer.",
+ "schema": "{a} denotes the arm that moves a block",
+ "preference": "num of words should not exceed 16. Emphasize there are two blocks, they start on the upper layer, and the plate is on the lower layer.",
+ "seen": [
+  "Place {A} into {B}; the blocks start on the upper layer.",
+  "Pick {A} from the upper layer and put them into {B}.",
+  "Move {A} into {B} from the upper layer.",
+  "Carry {A} from the upper layer into {B}.",
+  "Take {A} and place them into {B} on the lower layer.",
+  "Use {a} to move {A} into {B} from above.",
+  "Transfer {A} into {B} from the upper layer.",
+  "Lift {A} and set them into {B}."
+ ],
+ "unseen": [
+  "Put {A} into {B} from the upper layer.",
+  "Move {A} into {B}.",
+  "Pick {A} from above and place them into {B}.",
+  "Carry {A} to {B}.",
+  "Place {A} from the upper layer into {B}."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "find one upper block and grasp it"
+   ],
+   "unseen": [
+    "pick one upper block"
+   ]
+  },
+  "2": {
+   "seen": [
+    "find the lower plate and place the block into it"
+   ],
+   "unseen": [
+    "place the block into the lower plate"
+   ]
+  }
+ }
+}

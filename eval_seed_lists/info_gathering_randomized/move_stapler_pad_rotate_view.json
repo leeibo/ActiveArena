@@ -1,0 +1,1252 @@
+{
+  "format_version": 1,
+  "task_name": "move_stapler_pad_rotate_view",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 183,
+  "last_attempted_seed": 100182,
+  "next_seed": 100183,
+  "updated_at": "2026-07-10T04:55:43",
+  "elapsed_sec": 1962.358,
+  "seeds": [
+    100003,
+    100004,
+    100005,
+    100006,
+    100007,
+    100008,
+    100009,
+    100010,
+    100012,
+    100013,
+    100014,
+    100016,
+    100019,
+    100024,
+    100027,
+    100028,
+    100029,
+    100031,
+    100033,
+    100034,
+    100035,
+    100037,
+    100038,
+    100039,
+    100040,
+    100042,
+    100043,
+    100046,
+    100048,
+    100049,
+    100051,
+    100052,
+    100053,
+    100054,
+    100055,
+    100057,
+    100058,
+    100059,
+    100060,
+    100061,
+    100063,
+    100065,
+    100066,
+    100069,
+    100071,
+    100072,
+    100074,
+    100075,
+    100082,
+    100084,
+    100085,
+    100086,
+    100087,
+    100090,
+    100093,
+    100095,
+    100096,
+    100099,
+    100100,
+    100102,
+    100103,
+    100105,
+    100106,
+    100107,
+    100110,
+    100111,
+    100113,
+    100116,
+    100117,
+    100118,
+    100120,
+    100121,
+    100124,
+    100126,
+    100127,
+    100128,
+    100129,
+    100131,
+    100134,
+    100139,
+    100140,
+    100142,
+    100143,
+    100146,
+    100147,
+    100152,
+    100153,
+    100155,
+    100156,
+    100157,
+    100165,
+    100166,
+    100170,
+    100171,
+    100172,
+    100174,
+    100177,
+    100180,
+    100181,
+    100182
+  ],
+  "entries": [
+    {
+      "seed": 100003,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100004,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100005,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100006,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100007,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100008,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Red",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100009,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100010,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100012,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100013,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100014,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100016,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100024,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100027,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100028,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100029,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100031,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100033,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100034,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100035,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100037,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100040,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100042,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100043,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100046,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100048,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100049,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100051,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Red",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100052,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100053,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100054,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100055,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100057,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100058,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100059,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100060,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100061,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100063,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100065,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100069,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Yellow",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100074,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100082,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100084,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100085,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100086,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100087,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100090,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100093,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100095,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100096,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100099,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Yellow",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100100,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100102,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100103,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100105,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100106,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100107,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100110,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100111,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100113,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100116,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100117,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100118,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100120,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100121,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100124,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100126,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100127,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100128,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Yellow",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100129,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100131,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100134,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100139,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100140,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100142,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100143,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100146,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Red",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100147,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100152,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100153,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100155,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100156,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Red",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100157,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100165,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100166,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100170,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100171,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100172,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100174,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100177,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100180,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100181,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100182,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100000,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100001,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100002,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100011,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100015,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100017,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100020,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100021,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100022,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100023,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100025,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100026,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100030,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100032,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100036,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100041,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100044,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100045,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100047,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100050,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100056,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100062,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100064,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100067,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100068,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100070,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100073,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100077,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100078,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100079,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100080,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100081,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100083,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100088,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100089,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100091,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100092,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100094,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100097,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100098,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100101,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100104,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100108,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100109,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100112,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100114,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100115,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100119,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100122,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100123,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100130,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100132,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100133,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100135,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100136,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100137,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100138,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100141,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100144,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100145,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100148,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100149,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100150,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100151,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100154,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100158,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100159,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100160,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100161,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100162,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100163,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100164,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100167,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100168,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100169,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100173,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100175,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100176,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100178,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100179,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

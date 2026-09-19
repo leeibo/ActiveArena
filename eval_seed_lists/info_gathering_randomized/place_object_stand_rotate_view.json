@@ -1,0 +1,1640 @@
+{
+  "format_version": 1,
+  "task_name": "place_object_stand_rotate_view",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 280,
+  "last_attempted_seed": 100279,
+  "next_seed": 100280,
+  "updated_at": "2026-07-09T20:07:09",
+  "elapsed_sec": 3882.369,
+  "seeds": [
+    100000,
+    100011,
+    100015,
+    100017,
+    100018,
+    100022,
+    100023,
+    100026,
+    100027,
+    100028,
+    100030,
+    100033,
+    100034,
+    100038,
+    100039,
+    100045,
+    100048,
+    100052,
+    100053,
+    100056,
+    100061,
+    100067,
+    100068,
+    100069,
+    100073,
+    100075,
+    100078,
+    100085,
+    100089,
+    100093,
+    100095,
+    100097,
+    100098,
+    100099,
+    100101,
+    100108,
+    100109,
+    100114,
+    100121,
+    100123,
+    100127,
+    100128,
+    100133,
+    100136,
+    100137,
+    100144,
+    100151,
+    100152,
+    100153,
+    100157,
+    100158,
+    100159,
+    100160,
+    100161,
+    100162,
+    100166,
+    100167,
+    100169,
+    100171,
+    100174,
+    100175,
+    100179,
+    100181,
+    100182,
+    100187,
+    100189,
+    100192,
+    100196,
+    100200,
+    100204,
+    100207,
+    100208,
+    100210,
+    100216,
+    100222,
+    100223,
+    100224,
+    100225,
+    100226,
+    100229,
+    100231,
+    100234,
+    100235,
+    100238,
+    100239,
+    100240,
+    100244,
+    100249,
+    100250,
+    100255,
+    100256,
+    100264,
+    100266,
+    100268,
+    100269,
+    100270,
+    100273,
+    100276,
+    100278,
+    100279
+  ],
+  "entries": [
+    {
+      "seed": 100000,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100011,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100015,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100017,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100018,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100022,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100023,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100026,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100027,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100028,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100030,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100033,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100034,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100045,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100048,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100052,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100053,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100056,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100061,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100067,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100068,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100069,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100073,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100078,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100085,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100089,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100093,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100095,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100097,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100098,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100099,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100101,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100108,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100109,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100114,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100121,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100123,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100127,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100128,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100133,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100136,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100137,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100144,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100151,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100152,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100153,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100157,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100158,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100159,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100160,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100161,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100162,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100166,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100167,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100169,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100171,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100174,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100175,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100179,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100181,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100182,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100187,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100189,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100192,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100196,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100200,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100204,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100207,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100208,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100210,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100216,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100222,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100223,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100224,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100225,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100226,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100229,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100231,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100234,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100235,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100238,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100239,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100240,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100244,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100249,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100250,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100255,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100256,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100264,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100266,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100268,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100269,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100270,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100273,
+      "info": {
+        "{A}": "stapler",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100276,
+      "info": {
+        "{A}": "remotecontrol",
+        "{B}": "display stand",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100278,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100279,
+      "info": {
+        "{A}": "bell",
+        "{B}": "display stand",
+        "{a}": "right"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100001,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100002,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100003,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100004,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100005,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100006,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100007,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100008,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100009,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100010,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100012,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100013,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100014,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100016,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100019,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100020,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100021,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100024,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100025,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100029,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100031,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100032,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100035,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100036,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100037,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100040,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100041,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100042,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100043,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100044,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100046,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100047,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100049,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100050,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100051,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100054,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100055,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100057,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100058,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100059,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100060,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100062,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100063,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100064,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100065,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100066,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100070,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100071,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100072,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100074,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100077,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100079,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100080,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100081,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100082,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100083,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100084,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100086,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100087,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100088,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100090,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100091,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100092,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100094,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100096,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100100,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100102,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100103,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100104,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100105,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100106,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100107,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100110,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100111,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100112,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100113,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100115,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100116,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100117,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100118,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100119,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100120,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100122,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100124,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100126,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100129,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100130,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100131,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100132,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100134,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100135,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100138,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100139,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100140,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100141,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100142,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100143,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100145,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100146,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100147,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100148,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100149,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100150,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100154,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100155,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100156,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100163,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100164,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100165,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100168,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100170,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100172,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100173,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100176,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100177,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100178,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100180,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100183,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100184,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100185,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100186,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100188,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100190,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100191,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100193,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100194,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100195,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100197,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100198,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100199,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100201,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100202,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100203,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100205,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100206,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100209,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100211,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100212,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100213,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100214,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100215,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100217,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100218,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100219,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100220,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100221,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100227,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100228,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100230,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100232,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100233,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100236,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100237,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100241,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100242,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100243,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100245,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100246,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100247,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100248,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100251,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100252,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100253,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100254,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100257,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100258,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100259,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100260,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100261,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100262,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100263,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100265,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100267,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100271,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100272,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100274,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100275,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100277,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

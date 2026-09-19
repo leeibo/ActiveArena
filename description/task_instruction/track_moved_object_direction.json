@@ -1,0 +1,51 @@
+{
+ "full_description": "Watch the green target block move out of view, follow its movement direction to find it, then pick it up.",
+ "schema": "{A} denotes the moving target object, {B} denotes stationary distractor objects, {a} denotes the arm used to pick the object, {d} denotes the observed movement direction",
+ "preference": "Mention observing the target's movement direction before searching for the moved object.",
+ "seen": [
+  "Watch {A} move {d}, then look along that direction and pick it up with {a}.",
+  "Track the movement direction of {A}, find it after it moves away, and grasp it.",
+  "Observe where the green block goes, follow the {d} motion, then pick up {A}.",
+  "Use the motion of {A} to search in the right direction before grasping it.",
+  "After {A} leaves the current view, turn toward its {d} movement and collect it."
+ ],
+ "unseen": [
+  "Follow the moving target block and pick it up.",
+  "Find the green block by tracking the direction it moved.",
+  "Look in the direction the target moved, then grasp it."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "observe {A} before it moves"
+   ],
+   "unseen": [
+    "look at the target block at its starting position"
+   ]
+  },
+  "2": {
+   "seen": [
+    "track that {A} moves {d}"
+   ],
+   "unseen": [
+    "watch the target leave the current view"
+   ]
+  },
+  "3": {
+   "seen": [
+    "search along the {d} motion direction to find {A}"
+   ],
+   "unseen": [
+    "turn toward where the target moved"
+   ]
+  },
+  "4": {
+   "seen": [
+    "pick up the moved target with {a}"
+   ],
+   "unseen": [
+    "grasp the target after tracking it"
+   ]
+  }
+ }
+}

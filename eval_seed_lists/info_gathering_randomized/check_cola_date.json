@@ -1,0 +1,1440 @@
+{
+  "format_version": 1,
+  "task_name": "check_cola_date",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 105,
+  "last_attempted_seed": 100104,
+  "next_seed": 100105,
+  "updated_at": "2026-07-09T20:31:15",
+  "elapsed_sec": 1446.474,
+  "seeds": [
+    100000,
+    100001,
+    100002,
+    100003,
+    100004,
+    100005,
+    100006,
+    100007,
+    100008,
+    100009,
+    100010,
+    100011,
+    100012,
+    100013,
+    100014,
+    100015,
+    100016,
+    100017,
+    100019,
+    100021,
+    100022,
+    100023,
+    100024,
+    100025,
+    100026,
+    100027,
+    100028,
+    100029,
+    100030,
+    100031,
+    100032,
+    100033,
+    100034,
+    100035,
+    100036,
+    100037,
+    100038,
+    100039,
+    100040,
+    100041,
+    100042,
+    100043,
+    100044,
+    100045,
+    100046,
+    100047,
+    100048,
+    100049,
+    100050,
+    100051,
+    100052,
+    100053,
+    100054,
+    100055,
+    100056,
+    100057,
+    100058,
+    100059,
+    100060,
+    100061,
+    100062,
+    100063,
+    100064,
+    100065,
+    100066,
+    100067,
+    100068,
+    100069,
+    100071,
+    100072,
+    100073,
+    100074,
+    100075,
+    100076,
+    100077,
+    100079,
+    100080,
+    100081,
+    100082,
+    100083,
+    100085,
+    100086,
+    100087,
+    100088,
+    100089,
+    100090,
+    100091,
+    100092,
+    100093,
+    100094,
+    100095,
+    100096,
+    100097,
+    100098,
+    100099,
+    100100,
+    100101,
+    100102,
+    100103,
+    100104
+  ],
+  "entries": [
+    {
+      "seed": 100000,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-03-04",
+        "{F}": "2023-05-22",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100001,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-01-16",
+        "{F}": "2026-01-05",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100002,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-05-26",
+        "{F}": "2023-03-07",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100003,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-05-05",
+        "{F}": "2023-02-28",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100004,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-05-13",
+        "{F}": "2024-08-22",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100005,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-02-22",
+        "{F}": "2022-05-15",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100006,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-03-12",
+        "{F}": "2024-06-19",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100007,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-10-02",
+        "{F}": "2025-11-12",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100008,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-09-30",
+        "{F}": "2023-02-08",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100009,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-07-10",
+        "{F}": "2022-07-09",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100010,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-09-05",
+        "{F}": "2024-05-08",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100011,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-07-06",
+        "{F}": "2024-04-13",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100012,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-08-24",
+        "{F}": "2023-08-28",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100013,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-10-12",
+        "{F}": "2024-12-12",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100014,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-01-07",
+        "{F}": "2024-08-06",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100015,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-06-08",
+        "{F}": "2025-09-06",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100016,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-11-12",
+        "{F}": "2024-06-03",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100017,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-02-13",
+        "{F}": "2025-04-02",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-12-31",
+        "{F}": "2022-02-27",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100021,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-05-19",
+        "{F}": "2023-05-23",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100022,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-07-18",
+        "{F}": "2023-12-14",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100023,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-10-13",
+        "{F}": "2023-07-11",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100024,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-09-07",
+        "{F}": "2024-05-26",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100025,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-03-04",
+        "{F}": "2023-06-17",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100026,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-03-04",
+        "{F}": "2021-11-26",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100027,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-02-02",
+        "{F}": "2023-08-22",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100028,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-06-06",
+        "{F}": "2024-04-14",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100029,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-05-27",
+        "{F}": "2025-11-29",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100030,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-11-07",
+        "{F}": "2024-07-26",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100031,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-10-04",
+        "{F}": "2022-02-07",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100032,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-05-15",
+        "{F}": "2022-09-26",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100033,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-11-27",
+        "{F}": "2025-08-27",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100034,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-04-20",
+        "{F}": "2023-04-17",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100035,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-06-19",
+        "{F}": "2023-02-27",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100036,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-02-24",
+        "{F}": "2024-10-06",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100037,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-12-29",
+        "{F}": "2024-02-11",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-04-11",
+        "{F}": "2021-07-27",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-09-20",
+        "{F}": "2024-02-16",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100040,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-01-05",
+        "{F}": "2024-09-23",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100041,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-11-02",
+        "{F}": "2023-10-17",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100042,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-12-14",
+        "{F}": "2025-09-18",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100043,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-08-24",
+        "{F}": "2023-02-15",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100044,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-10-06",
+        "{F}": "2021-10-23",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100045,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-08-05",
+        "{F}": "2024-10-05",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100046,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-02-23",
+        "{F}": "2022-05-31",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100047,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-09-19",
+        "{F}": "2023-10-12",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100048,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-03-13",
+        "{F}": "2022-04-12",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100049,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-03-08",
+        "{F}": "2023-10-05",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100050,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-07-06",
+        "{F}": "2023-06-27",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100051,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-01-29",
+        "{F}": "2025-05-20",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100052,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-04-03",
+        "{F}": "2022-11-10",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100053,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-02-12",
+        "{F}": "2023-03-25",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100054,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-12-13",
+        "{F}": "2024-10-01",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100055,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-05-15",
+        "{F}": "2025-06-25",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100056,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-06-29",
+        "{F}": "2022-07-07",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100057,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-11-12",
+        "{F}": "2023-04-30",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100058,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-10-12",
+        "{F}": "2022-02-12",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100059,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-07-24",
+        "{F}": "2024-12-23",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100060,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-01-29",
+        "{F}": "2024-03-06",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100061,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-11-01",
+        "{F}": "2022-11-28",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100062,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-04-17",
+        "{F}": "2026-03-10",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100063,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-10-23",
+        "{F}": "2023-02-24",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100064,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-12-03",
+        "{F}": "2025-03-04",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100065,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-12-10",
+        "{F}": "2024-05-15",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-02-20",
+        "{F}": "2025-08-02",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100067,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-12-17",
+        "{F}": "2022-08-29",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100068,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-10-15",
+        "{F}": "2024-01-16",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100069,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-07-15",
+        "{F}": "2024-06-22",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-09-03",
+        "{F}": "2024-01-04",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-03-02",
+        "{F}": "2022-09-11",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100073,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-10-06",
+        "{F}": "2024-01-11",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100074,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-10-01",
+        "{F}": "2022-10-18",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-05-06",
+        "{F}": "2022-04-12",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100076,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-02-20",
+        "{F}": "2024-12-08",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100077,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-09-30",
+        "{F}": "2025-06-07",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100079,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-11-14",
+        "{F}": "2024-07-14",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100080,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-08-24",
+        "{F}": "2024-03-17",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100081,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-12-06",
+        "{F}": "2026-05-11",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100082,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-09-22",
+        "{F}": "2025-09-05",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100083,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-04-15",
+        "{F}": "2024-07-01",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100085,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-05-31",
+        "{F}": "2023-07-23",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100086,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-06-03",
+        "{F}": "2021-11-29",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100087,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-05-20",
+        "{F}": "2024-01-30",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100088,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-04-21",
+        "{F}": "2024-07-26",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100089,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-12-12",
+        "{F}": "2026-11-30",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100090,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-12-07",
+        "{F}": "2024-10-09",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100091,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-05-19",
+        "{F}": "2022-11-11",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100092,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-03-01",
+        "{F}": "2025-02-11",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100093,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-11-20",
+        "{F}": "2024-06-26",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100094,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-11-08",
+        "{F}": "2023-04-27",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100095,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-05-28",
+        "{F}": "2025-02-07",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100096,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-05-26",
+        "{F}": "2026-03-19",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100097,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-12-10",
+        "{F}": "2023-07-30",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100098,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-06-16",
+        "{F}": "2025-08-20",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100099,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-03-04",
+        "{F}": "2022-01-23",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100100,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2026-01-27",
+        "{F}": "2025-06-06",
+        "{G}": "valid",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100101,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2025-11-24",
+        "{F}": "2023-12-06",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100102,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-07-19",
+        "{F}": "2021-12-25",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100103,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2024-12-31",
+        "{F}": "2023-02-15",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100104,
+      "info": {
+        "{A}": "can",
+        "{B}": "red expired area",
+        "{C}": "blue valid area",
+        "{D}": "365 days",
+        "{E}": "2023-03-02",
+        "{F}": "2021-12-01",
+        "{G}": "expired",
+        "{a}": "left"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100020,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100070,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100078,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100084,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

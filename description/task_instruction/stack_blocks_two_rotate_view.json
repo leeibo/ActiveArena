@@ -1,0 +1,50 @@
+{
+ "full_description": "Keep the red block as the base and stack the green block on top of it.",
+ "schema": "{A} denotes the red block, {B} denotes the green block, {a} denotes the arm on the red-block side, {b} denotes the arm that moves the green block",
+ "preference": "num of words should not exceed 20. Degree of detail avg 8",
+ "seen": [
+  "Keep {A} in place and stack {B} on top of it.",
+  "Use {b} to place {B} on top of {A}.",
+  "Stack {B} over {A}.",
+  "Make {A} the base and place {B} on it.",
+  "Leave {A} where it is, then put {B} on top.",
+  "Place {B} directly on top of {A}.",
+  "Use {B} as the top block and {A} as the base.",
+  "Build a two-block stack with {A} below and {B} above.",
+  "Put {B} onto {A} without relocating {A}.",
+  "Stack the green block on the red block.",
+  "Use {b} to lift {B} and set it on {A}.",
+  "Keep {A} fixed and complete the stack with {B}.",
+  "Place {B} above {A} to form a stack.",
+  "Set {B} on {A} and finish the two-block tower.",
+  "Make a stack with {A} at the bottom and {B} on top."
+ ],
+ "unseen": [
+  "Keep {A} as the base, then stack {B} on it.",
+  "Place {B} on top of {A} without moving {A}.",
+  "Form a two-block stack with {A} below and {B} above.",
+  "Use {b} to put {B} onto {A}.",
+  "Leave {A} where it is and stack {B} above it.",
+  "Complete the stack by placing {B} on {A}.",
+  "Make {A} the lower block and {B} the upper block.",
+  "Build the tower by setting {B} over {A}."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "find {B} and grasp it"
+   ],
+   "unseen": [
+    "find {B} and grasp it"
+   ]
+  },
+  "2": {
+   "seen": [
+    "find {A} and stack {B} on it"
+   ],
+   "unseen": [
+    "find {A} and stack {B} on it"
+   ]
+  }
+ }
+}

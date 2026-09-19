@@ -1,0 +1,50 @@
+{
+ "full_description": "Search for {A}; if it is not visible, open {B} and pick {A} up.",
+ "schema": "{A} denotes the target object, {B} denotes the cabinet, {a} denotes the arm that picks the object, {b} denotes the arm that opens the cabinet",
+ "preference": "num of words should not exceed 22. Mention finding the object, opening the cabinet if needed, and picking the object up.",
+ "seen": [
+  "Search for {A}; if it is hidden, open {B} and pick it up.",
+  "Look for {A}, open {B} when it is not visible, then lift {A}.",
+  "Find {A}; if it is not outside, open {B} and grab it.",
+  "Search the scene for {A}, open {B}, and pick {A} up.",
+  "Use {b} to open {B} after searching, then use {a} to lift {A}.",
+  "Look around for {A}; when it is missing, open {B} and take {A}.",
+  "Find the hidden {A} by opening {B}, then pick it up with {a}.",
+  "Search first, open {B} if needed, and lift {A} with {a}.",
+  "Open {B} after failing to find {A}, then pick {A} up.",
+  "Locate {A} by checking {B}, then grasp and raise it."
+ ],
+ "unseen": [
+  "Search for {A}, open {B}, and pick {A} up.",
+  "If {A} is not visible, open {B} and lift it.",
+  "Look for {A}; check {B} and grab the object.",
+  "Open {B} to find {A}, then pick it up.",
+  "Find the hidden {A} in {B} and lift it."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "search for {A}"
+   ],
+   "unseen": [
+    "look around for {A}"
+   ]
+  },
+  "2": {
+   "seen": [
+    "find {B} and open it with {b}"
+   ],
+   "unseen": [
+    "open {B} with {b}"
+   ]
+  },
+  "3": {
+   "seen": [
+    "find {A} inside {B} and pick it up with {a}"
+   ],
+   "unseen": [
+    "pick up {A} from {B} using {a}"
+   ]
+  }
+ }
+}

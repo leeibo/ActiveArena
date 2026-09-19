@@ -1,0 +1,20 @@
+{
+ "full_description": "Inspect three gray blocks' hidden backside colors and place each on its matching red, green, or blue pad; at most two blocks share a color.",
+ "schema": "{A} denotes the three gray backside-marked blocks, {B} denotes the three colored pads, {C} denotes the inspected backside colors, {a} denotes the arm used",
+ "preference": "Mention the hard three-block matching by hidden backside color.",
+ "seen": [
+  "Use {a} to inspect {A} and place every block on its matching pad.",
+  "Check all hidden back colors and match the three gray blocks to {B}.",
+  "Reveal each backside color, then sort the three blocks to the correct pads.",
+  "Match the three blocks by their hidden backside colors."
+ ],
+ "unseen": [
+  "Inspect three block backs and match each to a color pad.",
+  "Sort all gray blocks by hidden backside color.",
+  "Use backside color information to place the three blocks."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {"seen": ["inspect one block's backside color"], "unseen": ["reveal a hidden back color"]},
+  "2": {"seen": ["place that block on the matching pad"], "unseen": ["match the block to its color pad"]}
+ }
+}

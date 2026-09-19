@@ -1,0 +1,42 @@
+{
+ "full_description": "Inspect the hidden backside colors of three gray blocks and place them on the three pale pads in red, green, blue order.",
+ "schema": "{A} denotes the three gray backside-marked blocks, {B} denotes the three pale tabletop center ordering pads, {a} denotes the arm used",
+ "preference": "Mention inspecting backside colors and placing blocks on the pale pads in red-green-blue order.",
+ "seen": [
+  "Use {a} to inspect {A}, then place them on {B} in red, green, blue order.",
+  "Check each block's hidden back color and place it on the correct pale pad.",
+  "Reveal the back colors of the gray blocks and order them red-green-blue on the pads.",
+  "Sort {A} by hidden backside color onto {B}."
+ ],
+ "unseen": [
+  "Inspect the three block backs and rank them red, green, blue on the pads.",
+  "Place the backside-colored blocks on the pale pads in RGB order near the table center.",
+  "Use hidden back colors to arrange the gray blocks onto the pads."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "pick up one gray block with {a}"
+   ],
+   "unseen": [
+    "grasp a gray backside-marked block"
+   ]
+  },
+  "2": {
+   "seen": [
+    "inspect the carried block's backside color"
+   ],
+   "unseen": [
+    "reveal the hidden back color"
+   ]
+  },
+  "3": {
+   "seen": [
+    "place the inspected block on its RGB-order pad"
+   ],
+   "unseen": [
+    "put the block on its RGB-order pad"
+   ]
+  }
+ }
+}

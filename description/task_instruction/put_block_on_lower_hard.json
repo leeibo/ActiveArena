@@ -1,0 +1,40 @@
+{
+ "full_description": "Place {A} into {B}; two blocks start upper and one starts lower.",
+ "schema": "{a} denotes the arm that moves a block",
+ "preference": "num of words should not exceed 18. Emphasize there are three blocks and the target plate is on the lower layer.",
+ "seen": [
+  "Place {A} into {B}; two start upper and one starts lower.",
+  "Move {A} into {B} from both layers.",
+  "Put {A} into {B} after collecting them from above and below.",
+  "Carry {A} into {B}, with two from above and one from below.",
+  "Transfer {A} into {B} from mixed upper and lower layers.",
+  "Use {a} to place {A} into {B}.",
+  "Gather {A} and set them into {B}.",
+  "Pick every block and place {A} into {B}."
+ ],
+ "unseen": [
+  "Put {A} into {B}.",
+  "Move {A} into {B} from both layers.",
+  "Collect {A} and place them into {B}.",
+  "Carry every block to {B}.",
+  "Place the full set of {A} into {B}."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "find one remaining block and grasp it"
+   ],
+   "unseen": [
+    "pick one remaining block"
+   ]
+  },
+  "2": {
+   "seen": [
+    "find the lower plate and place the block into it"
+   ],
+   "unseen": [
+    "place the block into the lower plate"
+   ]
+  }
+ }
+}

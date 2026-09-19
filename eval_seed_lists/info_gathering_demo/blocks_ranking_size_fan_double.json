@@ -1,0 +1,3025 @@
+{
+  "format_version": 1,
+  "task_name": "blocks_ranking_size_fan_double",
+  "task_config": "info_gathering_demo",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 514,
+  "last_attempted_seed": 100513,
+  "next_seed": 100514,
+  "updated_at": "2026-07-09T10:07:35",
+  "elapsed_sec": 5396.689,
+  "seeds": [
+    100020,
+    100021,
+    100022,
+    100024,
+    100028,
+    100032,
+    100038,
+    100045,
+    100049,
+    100058,
+    100061,
+    100062,
+    100066,
+    100068,
+    100079,
+    100081,
+    100086,
+    100090,
+    100098,
+    100102,
+    100103,
+    100111,
+    100115,
+    100126,
+    100128,
+    100131,
+    100141,
+    100143,
+    100145,
+    100147,
+    100150,
+    100156,
+    100158,
+    100171,
+    100182,
+    100192,
+    100197,
+    100199,
+    100205,
+    100208,
+    100209,
+    100229,
+    100231,
+    100232,
+    100233,
+    100234,
+    100235,
+    100244,
+    100246,
+    100247,
+    100253,
+    100257,
+    100261,
+    100265,
+    100271,
+    100276,
+    100281,
+    100286,
+    100291,
+    100293,
+    100305,
+    100310,
+    100311,
+    100314,
+    100319,
+    100320,
+    100321,
+    100325,
+    100327,
+    100343,
+    100348,
+    100356,
+    100370,
+    100374,
+    100378,
+    100383,
+    100389,
+    100390,
+    100395,
+    100398,
+    100404,
+    100411,
+    100420,
+    100422,
+    100424,
+    100430,
+    100433,
+    100438,
+    100453,
+    100461,
+    100467,
+    100472,
+    100473,
+    100476,
+    100479,
+    100498,
+    100505,
+    100511,
+    100512,
+    100513
+  ],
+  "entries": [
+    {
+      "seed": 100020,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100021,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100022,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100024,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100028,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100032,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100045,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100049,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100058,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100061,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100062,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100068,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100079,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100081,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100086,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100090,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100098,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100102,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100103,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100111,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100115,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100126,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100128,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100131,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100141,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100143,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100145,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100147,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100150,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100156,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100158,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100171,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100182,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100192,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100197,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100199,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100205,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100208,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100209,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100229,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100231,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100232,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100233,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100234,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100235,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100244,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100246,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100247,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100253,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100257,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100261,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100265,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100271,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100276,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100281,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100286,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100291,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100293,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100305,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100310,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100311,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100314,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100319,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100320,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100321,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100325,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100327,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100343,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100348,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100356,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100370,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100374,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100378,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100383,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100389,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100390,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100395,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100398,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100404,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100411,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100420,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100422,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100424,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100430,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100433,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100438,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100453,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100461,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100467,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100472,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100473,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100476,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100479,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100498,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    },
+    {
+      "seed": 100505,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100511,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100512,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "right",
+        "{b}": "right",
+        "{c}": "right"
+      }
+    },
+    {
+      "seed": 100513,
+      "info": {
+        "{A}": "large block",
+        "{B}": "medium block",
+        "{C}": "small block",
+        "{a}": "left",
+        "{b}": "left",
+        "{c}": "left"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100000,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100000), unstable objects: bowl"
+    },
+    {
+      "seed": 100001,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100002,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100003,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100003), unstable objects: bowl"
+    },
+    {
+      "seed": 100004,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100005,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100006,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100006), unstable objects: bowl"
+    },
+    {
+      "seed": 100007,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100007), unstable objects: bowl, toothbrush"
+    },
+    {
+      "seed": 100008,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100009,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100010,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100011,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100011), unstable objects: bowl"
+    },
+    {
+      "seed": 100012,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100012), unstable objects: tissue"
+    },
+    {
+      "seed": 100013,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100014,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100015,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100016,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100016), unstable objects: spoon, snack_box"
+    },
+    {
+      "seed": 100017,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100019,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100019), unstable objects: snack_box"
+    },
+    {
+      "seed": 100023,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100025,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100026,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100026), unstable objects: steel_tape"
+    },
+    {
+      "seed": 100027,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100029,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100030,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100031,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100033,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100034,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100035,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100036,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100037,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100039,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100040,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100041,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100042,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100043,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100044,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100046,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100046), unstable objects: toothbrush, spoon"
+    },
+    {
+      "seed": 100047,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100047), unstable objects: spoon"
+    },
+    {
+      "seed": 100048,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100048), unstable objects: bowl"
+    },
+    {
+      "seed": 100050,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100051,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100051), unstable objects: snack_box"
+    },
+    {
+      "seed": 100052,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100053,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100053), unstable objects: bowl, bowl"
+    },
+    {
+      "seed": 100054,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100055,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100056,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100057,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100057), unstable objects: bowl"
+    },
+    {
+      "seed": 100059,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100060,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100060), unstable objects: snack_box, snack_box"
+    },
+    {
+      "seed": 100063,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100063), unstable objects: tissue"
+    },
+    {
+      "seed": 100064,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100065,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100067,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100067), unstable objects: spoon"
+    },
+    {
+      "seed": 100069,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100070,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100071,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100072,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100072), unstable objects: bowl"
+    },
+    {
+      "seed": 100073,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100074,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100074), unstable objects: snack_box"
+    },
+    {
+      "seed": 100075,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100076), unstable objects: toothbrush, marker"
+    },
+    {
+      "seed": 100077,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100078,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100080,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100082,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100083,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100083), unstable objects: tape"
+    },
+    {
+      "seed": 100084,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100084), unstable objects: tissue"
+    },
+    {
+      "seed": 100085,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100087,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100088,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100089,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100091,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100092,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100093,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100094,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100094), unstable objects: snack_box"
+    },
+    {
+      "seed": 100095,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100095), unstable objects: bowl"
+    },
+    {
+      "seed": 100096,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100097,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100099,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100099), unstable objects: bowl"
+    },
+    {
+      "seed": 100100,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100101,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100104,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100104), unstable objects: marker"
+    },
+    {
+      "seed": 100105,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100106,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100107,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100108,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100109,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100110,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100110), unstable objects: bowl"
+    },
+    {
+      "seed": 100112,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100113,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100114,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100114), unstable objects: spoon"
+    },
+    {
+      "seed": 100116,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100117,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100118,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100119,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100120,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100120), unstable objects: bowl"
+    },
+    {
+      "seed": 100121,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100121), unstable objects: tissue"
+    },
+    {
+      "seed": 100122,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100123,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100124,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100125), unstable objects: snack_box"
+    },
+    {
+      "seed": 100127,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100127), unstable objects: snack_box"
+    },
+    {
+      "seed": 100129,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100129), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100130,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100132,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100133,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100134,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100135,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100136,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100137,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100138,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100138), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100139,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100139), unstable objects: bowl, tissue"
+    },
+    {
+      "seed": 100140,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100142,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100142), unstable objects: snack_box, bowl"
+    },
+    {
+      "seed": 100144,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100146,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100148,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100148), unstable objects: tissue"
+    },
+    {
+      "seed": 100149,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100151,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100152,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100153,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100153), unstable objects: tissue, bowl"
+    },
+    {
+      "seed": 100154,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100154), unstable objects: snack_box"
+    },
+    {
+      "seed": 100155,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100155), unstable objects: bowl"
+    },
+    {
+      "seed": 100157,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100159,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100160,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100160), unstable objects: bowl"
+    },
+    {
+      "seed": 100161,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100162,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100163,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100163), unstable objects: bowl"
+    },
+    {
+      "seed": 100164,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100164), unstable objects: snack_box"
+    },
+    {
+      "seed": 100165,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100166,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100167,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100168,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100169,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100169), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100170,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100172,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100173,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100174,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100175,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100176,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100177,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100177), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100178,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100178), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100179,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100180,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100181,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100183,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100184,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100184), unstable objects: bowl, marker"
+    },
+    {
+      "seed": 100185,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100186,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100187,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100188,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100189,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100190,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100191,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100191), unstable objects: bowl"
+    },
+    {
+      "seed": 100193,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100194,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100194), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100195,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100196,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100196), unstable objects: spoon"
+    },
+    {
+      "seed": 100198,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100198), unstable objects: bowl, bowl"
+    },
+    {
+      "seed": 100200,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100201,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100202,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100203,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100203), unstable objects: spoon, snack_box, bowl"
+    },
+    {
+      "seed": 100204,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100206,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100207,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100207), unstable objects: bowl"
+    },
+    {
+      "seed": 100210,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100211,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100212,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100213,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100214,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100214), unstable objects: bowl"
+    },
+    {
+      "seed": 100215,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100215), unstable objects: bowl"
+    },
+    {
+      "seed": 100216,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100217,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100218,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100219,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100219), unstable objects: snack_box"
+    },
+    {
+      "seed": 100220,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100220), unstable objects: bowl"
+    },
+    {
+      "seed": 100221,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100222,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100222), unstable objects: bowl"
+    },
+    {
+      "seed": 100223,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100224,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100225,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100226,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100227,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100228,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100230,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100236,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100236), unstable objects: snack_box"
+    },
+    {
+      "seed": 100237,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100238,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100239,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100240,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100240), unstable objects: bowl"
+    },
+    {
+      "seed": 100241,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100242,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100243,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100243), unstable objects: spoon"
+    },
+    {
+      "seed": 100245,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100245), unstable objects: snack_box"
+    },
+    {
+      "seed": 100248,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100249,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100250,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100251,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100252,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100252), unstable objects: bowl"
+    },
+    {
+      "seed": 100254,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100255,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100256,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100256), unstable objects: bowl, toothbrush"
+    },
+    {
+      "seed": 100258,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100258), unstable objects: snack_package"
+    },
+    {
+      "seed": 100259,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100260,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100260), unstable objects: brush"
+    },
+    {
+      "seed": 100262,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100262), unstable objects: bowl"
+    },
+    {
+      "seed": 100263,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100264,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100266,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100266), unstable objects: snack_box"
+    },
+    {
+      "seed": 100267,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100268,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100269,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100270,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100272,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100273,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100274,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100274), unstable objects: bowl"
+    },
+    {
+      "seed": 100275,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100275), unstable objects: bowl"
+    },
+    {
+      "seed": 100277,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100278,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100279,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100280,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100282,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100283,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100283), unstable objects: snack_box"
+    },
+    {
+      "seed": 100284,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100285,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100285), unstable objects: spoon"
+    },
+    {
+      "seed": 100287,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100288,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100289,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100290,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100292,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100294,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100294), unstable objects: bowl"
+    },
+    {
+      "seed": 100295,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100295), unstable objects: snack_box"
+    },
+    {
+      "seed": 100296,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100297,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100298,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100299,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100300,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100301,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100302,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100302), unstable objects: snack_box"
+    },
+    {
+      "seed": 100303,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100304,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100306,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100306), unstable objects: tissue"
+    },
+    {
+      "seed": 100307,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100308,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100309,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100309), unstable objects: snack_box"
+    },
+    {
+      "seed": 100312,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100313,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100313), unstable objects: tape"
+    },
+    {
+      "seed": 100315,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100316,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100316), unstable objects: brush"
+    },
+    {
+      "seed": 100317,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100317), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100318,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100318), unstable objects: spoon, bowl"
+    },
+    {
+      "seed": 100322,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100323,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100324,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100326,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100328,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100328), unstable objects: bowl"
+    },
+    {
+      "seed": 100329,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100330,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100331,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100332,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100333,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100333), unstable objects: tissue"
+    },
+    {
+      "seed": 100334,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100335,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100336,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100336), unstable objects: bowl"
+    },
+    {
+      "seed": 100337,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100338,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100339,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100340,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100341,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100341), unstable objects: bowl"
+    },
+    {
+      "seed": 100342,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100342), unstable objects: snack_box"
+    },
+    {
+      "seed": 100344,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100345,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100346,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100347,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100347), unstable objects: snack_box"
+    },
+    {
+      "seed": 100349,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100350,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100350), unstable objects: spoon"
+    },
+    {
+      "seed": 100351,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100352,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100353,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100354,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100355,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100357,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100358,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100359,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100360,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100361,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100362,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100362), unstable objects: bowl, snack_box"
+    },
+    {
+      "seed": 100363,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100363), unstable objects: spoon"
+    },
+    {
+      "seed": 100364,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100364), unstable objects: snack_box"
+    },
+    {
+      "seed": 100365,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100366,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100366), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100367,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100368,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100369,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100369), unstable objects: bowl"
+    },
+    {
+      "seed": 100371,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100371), unstable objects: snack_box"
+    },
+    {
+      "seed": 100372,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100373,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100373), unstable objects: snack_box"
+    },
+    {
+      "seed": 100375,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100376,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100377,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100377), unstable objects: snack_box"
+    },
+    {
+      "seed": 100379,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100380,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100381,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100382,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100382), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100384,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100385,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100385), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100386,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100386), unstable objects: bowl"
+    },
+    {
+      "seed": 100387,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100387), unstable objects: spoon, spoon"
+    },
+    {
+      "seed": 100388,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100388), unstable objects: snack_box"
+    },
+    {
+      "seed": 100391,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100391), unstable objects: bowl"
+    },
+    {
+      "seed": 100392,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100393,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100394,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100394), unstable objects: bowl"
+    },
+    {
+      "seed": 100396,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100396), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100397,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100399,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100399), unstable objects: spoon"
+    },
+    {
+      "seed": 100400,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100401,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100402,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100402), unstable objects: snack_box"
+    },
+    {
+      "seed": 100403,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100405,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100405), unstable objects: bowl, tissue"
+    },
+    {
+      "seed": 100406,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100407,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100407), unstable objects: tissue"
+    },
+    {
+      "seed": 100408,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100408), unstable objects: bowl"
+    },
+    {
+      "seed": 100409,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100410,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100410), unstable objects: bowl"
+    },
+    {
+      "seed": 100412,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100412), unstable objects: bowl, bowl"
+    },
+    {
+      "seed": 100413,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100414,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100415,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100416,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100416), unstable objects: snack_box"
+    },
+    {
+      "seed": 100417,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100418,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100419,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100419), unstable objects: bowl"
+    },
+    {
+      "seed": 100421,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100423,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100425,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100426,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100427,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100427), unstable objects: spoon"
+    },
+    {
+      "seed": 100428,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100428), unstable objects: snack_box"
+    },
+    {
+      "seed": 100429,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100431,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100431), unstable objects: snack_box"
+    },
+    {
+      "seed": 100432,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100434,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100435,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100436,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100437,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100439,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100439), unstable objects: bowl"
+    },
+    {
+      "seed": 100440,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100441,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100441), unstable objects: bowl"
+    },
+    {
+      "seed": 100442,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100443,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100444,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100445,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100446,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100447,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100448,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100449,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100450,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100451,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100451), unstable objects: bowl"
+    },
+    {
+      "seed": 100452,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100454,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100454), unstable objects: snack_box, toothbrush"
+    },
+    {
+      "seed": 100455,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100455), unstable objects: snack_package"
+    },
+    {
+      "seed": 100456,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100456), unstable objects: snack_box"
+    },
+    {
+      "seed": 100457,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100458,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100458), unstable objects: snack_box"
+    },
+    {
+      "seed": 100459,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100459), unstable objects: bowl"
+    },
+    {
+      "seed": 100460,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100462,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100463,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100464,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100465,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100466,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100468,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100468), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100469,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100469), unstable objects: bowl"
+    },
+    {
+      "seed": 100470,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100471,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100471), unstable objects: bowl, snack_box"
+    },
+    {
+      "seed": 100474,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100474), unstable objects: bowl"
+    },
+    {
+      "seed": 100475,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100475), unstable objects: snack_box"
+    },
+    {
+      "seed": 100477,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100477), unstable objects: snack_box"
+    },
+    {
+      "seed": 100478,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100478), unstable objects: snack_box"
+    },
+    {
+      "seed": 100480,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100481,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100482,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100482), unstable objects: spoon, bowl"
+    },
+    {
+      "seed": 100483,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100484,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100484), unstable objects: bowl"
+    },
+    {
+      "seed": 100485,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100485), unstable objects: bowl"
+    },
+    {
+      "seed": 100486,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100486), unstable objects: bowl"
+    },
+    {
+      "seed": 100487,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100488,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100488), unstable objects: bowl"
+    },
+    {
+      "seed": 100489,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100490,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100491,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100491), unstable objects: toothbrush"
+    },
+    {
+      "seed": 100492,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100493,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100493), unstable objects: bowl"
+    },
+    {
+      "seed": 100494,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100495,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100495), unstable objects: snack_box"
+    },
+    {
+      "seed": 100496,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100496), unstable objects: snack_box"
+    },
+    {
+      "seed": 100497,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100497), unstable objects: snack_box, marker"
+    },
+    {
+      "seed": 100499,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100499), unstable objects: bowl"
+    },
+    {
+      "seed": 100500,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100501,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100501), unstable objects: bowl"
+    },
+    {
+      "seed": 100502,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100502), unstable objects: spoon"
+    },
+    {
+      "seed": 100503,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100503), unstable objects: spoon"
+    },
+    {
+      "seed": 100504,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100506,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100507,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100507), unstable objects: snack_box"
+    },
+    {
+      "seed": 100508,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100508), unstable objects: bowl"
+    },
+    {
+      "seed": 100509,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100510,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100510), unstable objects: snack_box"
+    }
+  ]
+}

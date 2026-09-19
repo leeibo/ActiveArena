@@ -1,0 +1,50 @@
+{
+ "full_description": "Search for {A}; if it is not visible, open {B} with the left hand and pick {A} up with the right hand.",
+ "schema": "{A} denotes the target object, {B} denotes the cabinet",
+ "preference": "num of words should not exceed 24. Mention searching first, using the left hand to open the cabinet, and using the right hand to pick the object up.",
+ "seen": [
+  "Search for {A}; if hidden, open {B} with the left hand and pick it up with the right hand.",
+  "Look for {A}, open {B} with the left hand when needed, then lift {A} with the right hand.",
+  "Find {A}; if it is not outside, open {B} with the left hand and grab it with the right hand.",
+  "Search the scene for {A}, open {B} with the left hand, and pick {A} up with the right hand.",
+  "Use the left hand to open {B} after searching, then use the right hand to lift {A}.",
+  "Look around for {A}; when it is missing, open {B} with the left hand and take {A} with the right hand.",
+  "Find the hidden {A} by opening {B} with the left hand, then pick it up with the right hand.",
+  "Search first, open {B} with the left hand if needed, and lift {A} with the right hand.",
+  "Open {B} with the left hand after failing to find {A}, then pick {A} up with the right hand.",
+  "Locate {A} by checking {B}, open it with the left hand, and raise {A} with the right hand."
+ ],
+ "unseen": [
+  "Search for {A}, open {B} with the left hand, and pick {A} up with the right hand.",
+  "If {A} is not visible, open {B} with the left hand and lift it with the right hand.",
+  "Look for {A}; check {B} with the left hand and grab the object with the right hand.",
+  "Open {B} with the left hand to find {A}, then pick it up with the right hand.",
+  "Find the hidden {A} in {B}, open the cabinet with the left hand, and lift the object with the right hand."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "search for {A}"
+   ],
+   "unseen": [
+    "look around for {A}"
+   ]
+  },
+  "2": {
+   "seen": [
+    "find {B} and open it with the left hand"
+   ],
+   "unseen": [
+    "open {B} with the left hand"
+   ]
+  },
+  "3": {
+   "seen": [
+    "find {A} inside {B} and pick it up with the right hand"
+   ],
+   "unseen": [
+    "pick up {A} from {B} using the right hand"
+   ]
+  }
+ }
+}

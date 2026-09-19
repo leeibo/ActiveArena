@@ -1,0 +1,43 @@
+{
+ "full_description": "Count the green target blocks on the table, then collect exactly those target blocks into the collection bin.",
+ "schema": "{A} denotes the green target blocks, {B} denotes the collection bin, {a} denotes the arm used to collect the blocks, {x} denotes the number of green target blocks",
+ "preference": "Mention counting the target objects first and collecting exactly the target objects into the container.",
+ "seen": [
+  "Count {A}, then put exactly those {x} blocks into {B}.",
+  "Scan the table for green blocks and collect the {x} targets into the collection bin.",
+  "Find how many {A} are present, then place all target blocks into {B}.",
+  "Use {a} to move each green target block into {B} after counting them.",
+  "Count the target blocks first, then gather only those blocks into the collection bin."
+ ],
+ "unseen": [
+  "Count the green blocks and collect them into the collection bin.",
+  "After counting {A}, place the {x} target blocks into {B}.",
+  "Gather only the green target blocks into {B}."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "scan the table and count {A}"
+   ],
+   "unseen": [
+    "look around to count the green target blocks"
+   ]
+  },
+  "2": {
+   "seen": [
+    "pick a counted target block with {a}"
+   ],
+   "unseen": [
+    "grasp one green target block"
+   ]
+  },
+  "3": {
+   "seen": [
+    "place the target block into {B}"
+   ],
+   "unseen": [
+    "put the green block in the collection bin"
+   ]
+  }
+ }
+}

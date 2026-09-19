@@ -1,0 +1,43 @@
+{
+ "full_description": "Open the closed cabinet and identify what colored object is inside.",
+ "schema": "{A} denotes the hidden object inside the container, {B} denotes the closed container, {a} denotes the arm used to extract the object, {b} denotes the arm used to open the container",
+ "preference": "Mention that the object identity should be determined only after opening the container.",
+ "seen": [
+  "Open {B} with {b}, take out {A} with {a}, and identify it.",
+  "Check that the object is hidden, open the container, then extract {A} to confirm its identity.",
+  "Use {b} to open {B}, then lift the colored block out so it can be clearly identified.",
+  "Open the cabinet, take out the hidden object, and report its identity.",
+  "Look inside {B} after opening it, remove {A}, and identify the object."
+ ],
+ "unseen": [
+  "Find out what is inside the closed container.",
+  "Open the cabinet and inspect the object inside.",
+  "Identify the hidden colored block after opening the container."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "confirm {A} is not visible before opening"
+   ],
+   "unseen": [
+    "look for the hidden object before opening the container"
+   ]
+  },
+  "2": {
+   "seen": [
+    "open {B} with {b}"
+   ],
+   "unseen": [
+    "pull the cabinet open"
+   ]
+  },
+  "3": {
+   "seen": [
+    "take out {A} with {a} and identify it clearly"
+   ],
+   "unseen": [
+    "extract the revealed object for confirmation"
+   ]
+  }
+ }
+}

@@ -1,0 +1,27 @@
+policy_name: oft_instruction_action_12_ws
+task_name: null
+task_config: null
+ckpt_setting: oft_instruction_action_12_ws
+seed: null
+instruction_type: unseen
+
+host: "127.0.0.1"
+port: 7980
+unnorm_key: null
+image_size: [224, 224]
+action_steps: 16
+action_type: qpos
+history_mode: action_keyframe
+history_frames: 12
+history_stride: 16
+send_state: true
+swap_rgb_channels: false
+clip_grippers: true
+motion_min_interval: 16
+motion_state_delta_threshold: 0.05
+subtask_fallback_interval: 0
+request_log_path: "policy/oft_instruction_action_12_ws/logs/requests.jsonl"
+request_image_dir: "policy/oft_instruction_action_12_ws/logs/images"
+torso_index: 0
+head2_index: 1
+log_chunk_timing: true

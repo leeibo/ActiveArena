@@ -1,0 +1,54 @@
+render_freq: 0
+episode_num: 50
+use_seed: false
+save_freq: 15
+# Table options:
+# Rotate tasks share the same base fan geometry. fan_double tasks also use this
+# fan profile for the lower layer; their upper-layer profiles are selected in
+# each task via ROTATE_FAN_DOUBLE_LAYER_CONFIG_KEY and defined in
+# envs/_GLOBAL_CONFIGS.py.
+# task_table_configs:
+#   fan:
+#     table_shape: fan
+#     fan_center_on_robot: true
+#     fan_outer_radius: 0.9
+#     fan_inner_radius: 0.3
+#     fan_angle_deg: 200
+#     fan_center_deg: 90
+#     rotate_object_margin_deg: 10
+#     rotate_theta_reference_fan_angle_deg: 220
+#     rotate_theta_shared_ratio: 1.0
+# difficulty_tag: medium_fan200  # optional; if unset, auto inferred from fan_angle_deg
+rotate_clutter_object_pool: all  # all | unused_task_objects | task_objects
+rotate_upper_cluttered_numbers: 0  # extra clutter on fan_double upper layer
+embodiment:
+- aloha-agilex
+language_num: 100
+domain_randomization:
+  random_background: false
+  cluttered_table: false
+  clean_background_rate: 0
+  random_head_camera_dis: 0
+  random_table_height: 0
+  random_light: false
+  crazy_random_light_rate: 0
+camera:
+  head_camera_type: D435
+  wrist_camera_type: D435
+  collect_head_camera: true
+  collect_wrist_camera: true
+data_type:
+  rgb: true
+  third_view: false
+  depth: false
+  pointcloud: false
+  endpose: true
+  qpos: true
+  mesh_segmentation: false
+  actor_segmentation: false
+pcd_down_sample_num: 1024
+pcd_crop: true
+save_path: ./data
+clear_cache_freq: 1
+collect_data: true
+eval_video_log: true

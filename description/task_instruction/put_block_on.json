@@ -1,0 +1,40 @@
+{
+ "full_description": "Put the block into the plate.",
+ "schema": "{A} denotes the block, {B} denotes the plate, {a} denotes the arm that moves the block",
+ "preference": "num of words should not exceed 12",
+ "seen": [
+  "Pick up {A} and place it into {B}.",
+  "Use {a} to move {A} into {B}.",
+  "Find {A}, lift it, and set it into {B}.",
+  "Carry {A} and place it into {B}.",
+  "Move {A} with {a} and drop it into {B}.",
+  "Grasp {A}, move it upward, and place it into {B}.",
+  "Take {A} and set it into {B}.",
+  "Transfer {A} into {B} using {a}."
+ ],
+ "unseen": [
+  "Place {A} into {B}.",
+  "Pick {A} and put it into {B}.",
+  "Move {A} into {B} with {a}.",
+  "Carry {A} over and place it into {B}.",
+  "Lift {A} and set it into {B}."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "find {A} and grasp it"
+   ],
+   "unseen": [
+    "find {A} and grasp it"
+   ]
+  },
+  "2": {
+   "seen": [
+    "find {B} and place {A} into it"
+   ],
+   "unseen": [
+    "find {B} and place {A} into it"
+   ]
+  }
+ }
+}

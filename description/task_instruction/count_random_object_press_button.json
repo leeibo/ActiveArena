@@ -1,0 +1,20 @@
+{
+ "full_description": "Count the randomly selected target object type, then press the number button matching the count; from left to right the buttons represent 1, 2, and 3.",
+ "schema": "{A} denotes the selected target object type, {B} denotes the matching number button, {a} denotes the arm used to press the button, {x} denotes the target count",
+ "preference": "Mention counting the named object type, the left-to-right 1/2/3 button mapping, and pressing the matching button once. Do not reveal the counted answer in subtask instructions.",
+ "seen": [
+  "Count {A}, then press the matching button with {a}; the buttons are 1, 2, 3 from left to right.",
+  "Find how many {A} are present and answer using the left-to-right 1/2/3 buttons.",
+  "Scan the objects, count the target type, and press the matching number button.",
+  "Use {a} to press the matching button after counting {A}."
+ ],
+ "unseen": [
+  "Count the selected object type and press the matching number button; left to right means 1, 2, and 3.",
+  "After counting {A}, press the corresponding button once.",
+  "Press the button whose left-to-right order equals the count of {A}."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {"seen": ["scan and count {A}"], "unseen": ["count the selected object type"]},
+  "2": {"seen": ["press the button matching the counted result with {a}"], "unseen": ["push the matching number button"]}
+ }
+}

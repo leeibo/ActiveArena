@@ -1,0 +1,1330 @@
+{
+  "format_version": 1,
+  "task_name": "shake_bottle_rotate_view",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 221,
+  "last_attempted_seed": 100220,
+  "next_seed": 100221,
+  "updated_at": "2026-07-10T04:23:01",
+  "elapsed_sec": 2294.217,
+  "seeds": [
+    100001,
+    100002,
+    100003,
+    100004,
+    100006,
+    100007,
+    100012,
+    100013,
+    100014,
+    100019,
+    100021,
+    100023,
+    100027,
+    100030,
+    100031,
+    100033,
+    100036,
+    100039,
+    100042,
+    100044,
+    100045,
+    100051,
+    100052,
+    100053,
+    100054,
+    100057,
+    100059,
+    100060,
+    100062,
+    100063,
+    100064,
+    100065,
+    100068,
+    100069,
+    100070,
+    100071,
+    100072,
+    100075,
+    100079,
+    100080,
+    100081,
+    100083,
+    100087,
+    100097,
+    100098,
+    100101,
+    100103,
+    100104,
+    100105,
+    100107,
+    100109,
+    100111,
+    100112,
+    100118,
+    100122,
+    100124,
+    100131,
+    100135,
+    100139,
+    100140,
+    100147,
+    100149,
+    100152,
+    100153,
+    100154,
+    100156,
+    100158,
+    100159,
+    100160,
+    100164,
+    100165,
+    100166,
+    100168,
+    100169,
+    100170,
+    100171,
+    100172,
+    100173,
+    100177,
+    100179,
+    100182,
+    100185,
+    100186,
+    100189,
+    100191,
+    100192,
+    100193,
+    100194,
+    100195,
+    100196,
+    100200,
+    100202,
+    100208,
+    100209,
+    100212,
+    100213,
+    100217,
+    100218,
+    100219,
+    100220
+  ],
+  "entries": [
+    {
+      "seed": 100001,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100002,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100003,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100004,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100006,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100007,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100012,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100013,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100014,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100021,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100023,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100027,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100030,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100031,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100033,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100036,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100042,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100044,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100045,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100051,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100052,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100053,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100054,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100057,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100059,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100060,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100062,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100063,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100064,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100065,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100068,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100069,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100070,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100079,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100080,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100081,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100083,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100087,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100097,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100098,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100101,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100103,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100104,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100105,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100107,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100109,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100111,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100112,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100118,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100122,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100124,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100131,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100135,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100139,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100140,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100147,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100149,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100152,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100153,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100154,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100156,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100158,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100159,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100160,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100164,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100165,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100166,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100168,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100169,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100170,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100171,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100172,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100173,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100177,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100179,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100182,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100185,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100186,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100189,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100191,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100192,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100193,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100194,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100195,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100196,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100200,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100202,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100208,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100209,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100212,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100213,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100217,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100218,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100219,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100220,
+      "info": {
+        "{A}": "bottle",
+        "{a}": "right"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100000,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100005,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100008,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100009,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100010,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100010), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100011,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100011), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100015,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100016,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100016), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100017,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100018), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100020,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100022,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100024,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100024), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100025,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100026,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100028,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100029,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100032,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100034,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100035,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100035), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100037,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100038,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100040,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100040), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100041,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100043,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100046,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100047,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100048,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100049,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100049), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100050,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100055,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100056,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100058,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100061,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100066,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100067,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100073,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100073), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100074,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100074), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100076,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100077,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100078,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100078), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100082,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100084,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100085,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100086,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100088,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100089,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100090,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100091,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100092,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100092), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100093,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100094,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100095,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100096,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100099,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100099), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100100,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100102,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100106,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100108,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100110,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100113,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100114,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100115,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100116,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100116), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100117,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100119,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100120,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100121,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100123,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100126,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100127,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100128,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100129,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100130,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100132,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100133,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100134,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100136,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100137,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100137), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100138,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100141,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100142,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100143,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100144,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100144), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100145,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100146,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100148,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100150,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100150), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100151,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100155,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100155), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100157,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100161,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100162,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100163,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100163), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100167,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100174,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100174), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100175,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100176,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100176), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100178,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100180,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100181,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100183,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100183), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100184,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100187,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100188,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100188), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100190,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100197,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100198,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100199,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100199), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100201,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100203,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100204,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100205,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100205), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100206,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100206), unstable objects: 001_bottle"
+    },
+    {
+      "seed": 100207,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100210,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100211,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100214,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100215,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100216,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

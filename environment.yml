@@ -1,0 +1,16 @@
+name: activearena-sim
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  # The simulator snapshot was validated with Python 3.10 and the versions in
+  # script/requirements.txt. Keep this file as the stable environment entry
+  # point; the installer pins the two source builds that cannot be expressed as
+  # ordinary pip requirements.
+  - python=3.10
+  - pip
+  - ffmpeg
+  - vulkan-tools
+  - pip:
+      - -r script/requirements.txt

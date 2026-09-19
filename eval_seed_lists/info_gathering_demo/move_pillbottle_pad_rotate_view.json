@@ -1,0 +1,860 @@
+{
+  "format_version": 1,
+  "task_name": "move_pillbottle_pad_rotate_view",
+  "task_config": "info_gathering_demo",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 110,
+  "last_attempted_seed": 100109,
+  "next_seed": 100110,
+  "updated_at": "2026-07-10T03:14:47",
+  "elapsed_sec": 1795.763,
+  "seeds": [
+    100000,
+    100001,
+    100002,
+    100005,
+    100006,
+    100007,
+    100008,
+    100011,
+    100012,
+    100015,
+    100016,
+    100017,
+    100018,
+    100019,
+    100021,
+    100022,
+    100023,
+    100024,
+    100025,
+    100026,
+    100027,
+    100028,
+    100029,
+    100030,
+    100031,
+    100032,
+    100033,
+    100034,
+    100035,
+    100036,
+    100037,
+    100038,
+    100040,
+    100041,
+    100042,
+    100043,
+    100044,
+    100045,
+    100046,
+    100047,
+    100048,
+    100049,
+    100050,
+    100051,
+    100052,
+    100053,
+    100054,
+    100055,
+    100056,
+    100057,
+    100058,
+    100059,
+    100060,
+    100061,
+    100062,
+    100064,
+    100065,
+    100066,
+    100067,
+    100068,
+    100069,
+    100070,
+    100071,
+    100072,
+    100073,
+    100074,
+    100075,
+    100076,
+    100077,
+    100078,
+    100079,
+    100080,
+    100081,
+    100082,
+    100083,
+    100084,
+    100085,
+    100086,
+    100087,
+    100088,
+    100090,
+    100091,
+    100092,
+    100093,
+    100094,
+    100095,
+    100096,
+    100097,
+    100098,
+    100099,
+    100100,
+    100101,
+    100102,
+    100103,
+    100104,
+    100105,
+    100106,
+    100107,
+    100108,
+    100109
+  ],
+  "entries": [
+    {
+      "seed": 100000,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100001,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100002,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100005,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100006,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100007,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100008,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100011,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100012,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100015,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100016,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100017,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100018,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100021,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100022,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100023,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100024,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100025,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100026,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100027,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100028,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100029,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100030,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100031,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100032,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100033,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100034,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100035,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100036,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100037,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100040,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100041,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100042,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100043,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100044,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100045,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100046,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100047,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100048,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100049,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100050,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100051,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100052,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100053,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100054,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100055,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100056,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100057,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100058,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100059,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100060,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100061,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100062,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100064,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100065,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100067,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100068,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100069,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100070,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100073,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100074,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100076,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100077,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100078,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100079,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100080,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100081,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100082,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100083,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100084,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100085,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100086,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100087,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100088,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100090,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100091,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100092,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100093,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100094,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100095,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100096,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100097,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100098,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100099,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100100,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100101,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100102,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100103,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100104,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100105,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100106,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100107,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100108,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100109,
+      "info": {
+        "{A}": "pill bottle",
+        "{a}": "right"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100003,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100004,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100009,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100010,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100013,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100014,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100020,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100039,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100063,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100089,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

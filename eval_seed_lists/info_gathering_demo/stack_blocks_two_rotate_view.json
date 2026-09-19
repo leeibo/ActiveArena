@@ -1,0 +1,1388 @@
+{
+  "format_version": 1,
+  "task_name": "stack_blocks_two_rotate_view",
+  "task_config": "info_gathering_demo",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 192,
+  "last_attempted_seed": 100191,
+  "next_seed": 100192,
+  "updated_at": "2026-07-10T05:02:25",
+  "elapsed_sec": 2042.554,
+  "seeds": [
+    100004,
+    100007,
+    100008,
+    100009,
+    100012,
+    100016,
+    100017,
+    100019,
+    100021,
+    100022,
+    100024,
+    100027,
+    100029,
+    100031,
+    100032,
+    100036,
+    100037,
+    100038,
+    100039,
+    100043,
+    100044,
+    100047,
+    100048,
+    100050,
+    100051,
+    100053,
+    100054,
+    100057,
+    100060,
+    100062,
+    100063,
+    100064,
+    100065,
+    100070,
+    100071,
+    100073,
+    100075,
+    100078,
+    100079,
+    100080,
+    100084,
+    100085,
+    100087,
+    100089,
+    100091,
+    100093,
+    100094,
+    100095,
+    100098,
+    100099,
+    100100,
+    100101,
+    100106,
+    100107,
+    100108,
+    100111,
+    100116,
+    100118,
+    100119,
+    100121,
+    100126,
+    100128,
+    100129,
+    100130,
+    100132,
+    100137,
+    100139,
+    100141,
+    100142,
+    100143,
+    100144,
+    100145,
+    100146,
+    100147,
+    100148,
+    100150,
+    100151,
+    100152,
+    100156,
+    100159,
+    100161,
+    100162,
+    100163,
+    100166,
+    100167,
+    100169,
+    100170,
+    100173,
+    100174,
+    100177,
+    100178,
+    100179,
+    100180,
+    100181,
+    100182,
+    100183,
+    100184,
+    100186,
+    100189,
+    100191
+  ],
+  "entries": [
+    {
+      "seed": 100004,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100007,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100008,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100009,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100012,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100016,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100017,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100021,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100022,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100024,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100027,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100029,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100031,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100032,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100036,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100037,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100043,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100044,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100047,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100048,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100050,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100051,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100053,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100054,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100057,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100060,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100062,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100063,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100064,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100065,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100070,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100073,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100078,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100079,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100080,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100084,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100085,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100087,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100089,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100091,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100093,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100094,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100095,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100098,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100099,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100100,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100101,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100106,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100107,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100108,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100111,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100116,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100118,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100119,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100121,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100126,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100128,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100129,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100130,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100132,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100137,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100139,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100141,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100142,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100143,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100144,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100145,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100146,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100147,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100148,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100150,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100151,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100152,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100156,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100159,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100161,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100162,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100163,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100166,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100167,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100169,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100170,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100173,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100174,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100177,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100178,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100179,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100180,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100181,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100182,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100183,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100184,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "right",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100186,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    },
+    {
+      "seed": 100189,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "left"
+      }
+    },
+    {
+      "seed": 100191,
+      "info": {
+        "{A}": "red block",
+        "{B}": "green block",
+        "{a}": "left",
+        "{b}": "right"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100000,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100001,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100002,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100003,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100005,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100006,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100010,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100011,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100013,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100014,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100015,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100020,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100023,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100025,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100026,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100028,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100030,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100033,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100034,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100035,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100040,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100041,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100042,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100045,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100046,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100049,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100052,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100055,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100056,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100058,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100059,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100061,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100066,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100067,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100068,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100069,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100072,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100074,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100077,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100081,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100082,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100083,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100086,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100088,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100090,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100092,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100096,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100097,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100102,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100103,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100104,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100105,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100109,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100110,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100112,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100113,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100114,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100115,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100117,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100120,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100122,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100123,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100124,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100127,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100131,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100133,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100134,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100135,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100136,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100138,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100140,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100149,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100153,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100154,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100155,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100157,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100158,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100160,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100164,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100165,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100168,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100171,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100172,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100175,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100176,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100185,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100187,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100188,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100190,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

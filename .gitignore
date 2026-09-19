@@ -1,0 +1,49 @@
+models/
+data/*
+assets
+data2/*
+data_view/
+!data/process_stuck.py
+__pycache__/
+**/checkpoints/
+result/
+.progress/
+envs/curobo
+*.zip
+viewer_show.*
+logs/
+imgs/
+eval_video/
+outputs/
+**/.DS_Store
+.pytest_cache/
+# eval result
+eval_result/
+script/calibration/*
+# Code Generation
+assets/*
+!assets/_download.py
+!assets/files
+
+policy/weights/*
+
+envs/curobo/*
+
+.vscode
+/config.json
+
+/*.json*
+/*.txt
+policy/fast_subtask_action_12_wos/parallel_eval_logs
+
+# Local tooling and environment backups
+.agents/
+.feishu/
+.lark/
+feishu-cli/
+lark-cli/
+envs/curobo*_backup_*/
+
+# Local FastWAM runtime links and checkpoint aliases
+/.fastwam_eval_*.pt
+/policy/fastwam_policy

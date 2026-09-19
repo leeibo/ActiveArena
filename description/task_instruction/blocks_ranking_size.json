@@ -1,0 +1,32 @@
+{
+ "full_description": "Arrange the large, medium, and small blocks from left to right in descending size.",
+ "schema": "{A} denotes the large block, {B} denotes the medium block, {C} denotes the small block, {a} denotes the arm on the large-block side, {b} denotes the arm that moves the medium block, {c} denotes the arm that moves the small block",
+ "preference": "num of words should not exceed 30",
+ "seen": [
+  "Arrange {A}, {B}, and {C} from left to right by size.",
+  "Keep {A} as the left reference, place {B} to its right, then place {C} to the right of {B}.",
+  "Line up {A}, {B}, and {C} from largest to smallest.",
+  "Set {B} beside {A}, then set {C} beside {B}.",
+  "Place the blocks in order as {A}, then {B}, then {C}.",
+  "Use {b} to position {B} to the right of {A}, then use {c} to position {C} to the right of {B}.",
+  "Make a left-to-right row of {A}, {B}, and {C}.",
+  "Arrange the blocks in descending size from left to right.",
+  "Put {B} next to {A}, and put {C} next to {B}.",
+  "Keep {A} where it is and complete the row with {B} and {C}.",
+  "Form a straight row with {A} on the left, {B} in the middle, and {C} on the right.",
+  "Place the blocks so {A} is left of {B}, and {B} is left of {C}.",
+  "Arrange the lineup as large, medium, then small.",
+  "Move {B} beside {A}, then move {C} beside {B}.",
+  "Sort the three blocks by size in a single row."
+ ],
+ "unseen": [
+  "Arrange {A}, {B}, and {C} in descending size from left to right.",
+  "Place {B} to the right of {A}, then place {C} to the right of {B}.",
+  "Sort the row as {A}, {B}, then {C}.",
+  "Keep {A} as the left anchor and complete the lineup with {B} and {C}.",
+  "Set the three blocks in a row with {A} left, {B} center, and {C} right.",
+  "Make {A}, {B}, and {C} form a left-to-right size sequence.",
+  "Put the blocks in order so {A} comes before {B}, and {B} comes before {C}.",
+  "Build the lineup from largest to smallest, placing each block to the right of the previous one."
+ ]
+}

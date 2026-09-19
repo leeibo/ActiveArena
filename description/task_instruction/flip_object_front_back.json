@@ -1,0 +1,27 @@
+{
+ "full_description": "Pick up the marked object and flip it front to back.",
+ "schema": "{A} denotes the object with colored front and back faces, {a} denotes the arm used to flip it",
+ "preference": "Mention flipping the object's front and back faces. Keep instructions concise.",
+ "seen": [
+  "Use {a} to pick up {A} and flip it front to back.",
+  "Grab {A} with {a}, then turn its front face backward.",
+  "Lift {A} and flip its front and back sides.",
+  "Pick up {A} and reverse its front-back orientation.",
+  "Use {a} to grasp {A} and flip it over front to back."
+ ],
+ "unseen": [
+  "Flip {A} front to back after picking it up.",
+  "Turn {A} so its front side faces backward.",
+  "Grab {A} and reverse its front-back direction."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "find {A}, grasp it with {a}, and flip it front to back"
+   ],
+   "unseen": [
+    "find and front-back flip {A}"
+   ]
+  }
+ }
+}

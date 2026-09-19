@@ -1,0 +1,39 @@
+{
+ "full_description": "Arrange the large, medium, and small blocks from left to right in descending size on the double-layer fan table.",
+ "schema": "{A} denotes the large block, {B} denotes the medium block, {C} denotes the small block, {a} denotes the arm on the large-block side, {b} denotes the arm that moves the medium block, {c} denotes the arm that moves the small block",
+ "preference": "num of words should not exceed 30",
+ "seen": [
+  "Arrange {A}, {B}, and {C} from left to right by size.",
+  "Keep {A} as the left reference, place {B} to its right, then place {C} to the right of {B}.",
+  "Line up {A}, {B}, and {C} from largest to smallest.",
+  "Set {B} beside {A}, then set {C} beside {B}.",
+  "Place the blocks in order as {A}, then {B}, then {C}.",
+  "Use {b} to position {B} to the right of {A}, then use {c} to position {C} to the right of {B}.",
+  "Make a left-to-right row of {A}, {B}, and {C}.",
+  "Arrange the blocks in descending size from left to right."
+ ],
+ "unseen": [
+  "Arrange {A}, {B}, and {C} in descending size from left to right.",
+  "Place {B} to the right of {A}, then place {C} to the right of {B}.",
+  "Sort the row as {A}, {B}, then {C}.",
+  "Set the three blocks in a row with {A} left, {B} center, and {C} right."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": ["find {B} and grasp it"],
+   "unseen": ["find {B} and grasp it"]
+  },
+  "2": {
+   "seen": ["find {A} and place {B} to its right"],
+   "unseen": ["find {A} and place {B} to its right"]
+  },
+  "3": {
+   "seen": ["find {C} and grasp it"],
+   "unseen": ["find {C} and grasp it"]
+  },
+  "4": {
+   "seen": ["find {B} and place {C} to its right"],
+   "unseen": ["find {B} and place {C} to its right"]
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "full_description": "Count the green target blocks on the table, then press the number button matching the count; from left to right the buttons represent 1, 2, and 3.",
+ "schema": "{A} denotes the green target blocks, {B} denotes the matching number button, {a} denotes the arm used to press the button, {x} denotes the number of green target blocks",
+ "preference": "Mention counting target blocks, the left-to-right 1/2/3 button mapping, and pressing the matching button once. Do not reveal the counted answer in subtask instructions.",
+ "seen": [
+  "Count {A}, then press the matching button with {a}; the buttons are 1, 2, 3 from left to right.",
+  "Look around, count the green blocks, and use the left-to-right 1/2/3 buttons to answer.",
+  "Find how many {A} are present, then press the matching number button.",
+  "Use vision to count {A}; then use {a} to press the matching button.",
+  "Count the target blocks first, then confirm with the button whose left-to-right position matches the count."
+ ],
+ "unseen": [
+  "Count the green blocks and press the matching button, where left to right means 1, 2, and 3.",
+  "After counting {A}, press the corresponding button once.",
+  "Use {a} to push the button whose left-to-right order equals the green-block count."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": ["scan the table and count {A}"],
+   "unseen": ["look around to count the green target blocks"]
+  },
+  "2": {
+   "seen": ["press the button matching the counted result with {a}"],
+   "unseen": ["push the matching number button"]
+  }
+ }
+}

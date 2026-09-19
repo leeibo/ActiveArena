@@ -1,0 +1,66 @@
+{
+ "full_description": "Keep the red block as the base, stack the green block on it, and then stack the blue block on the green block.",
+ "schema": "{A} denotes the red block, {B} denotes the green block, {C} denotes the blue block, {a} denotes the arm on the red-block side, {b} denotes the arm that moves the green block, {c} denotes the arm that moves the blue block",
+ "preference": "num of words should not exceed 20. Degree of detail avg 8",
+ "seen": [
+  "Keep {A} in place, stack {B} on {A}, then stack {C} on {B}.",
+  "Build a stack with {A} at the bottom, {B} in the middle, and {C} on top.",
+  "Place {B} on {A}, then place {C} on {B}.",
+  "Use {b} to stack {B} on {A}, then use {c} to stack {C} on {B}.",
+  "Make {A} the base, {B} the middle block, and {C} the top block.",
+  "Leave {A} where it is and complete the stack with {B} and {C}.",
+  "Stack the green block on the red block, then stack the blue block on the green block.",
+  "Form a three-block tower as {A}, {B}, then {C} from bottom to top.",
+  "Put {B} onto {A}, then put {C} onto {B}.",
+  "Build the tower upward from {A} to {C}.",
+  "Keep {A} fixed, place {B} above it, and place {C} above {B}.",
+  "Use {B} as the middle support and {C} as the top block.",
+  "Complete the stack by setting {B} on {A} and {C} on {B}.",
+  "Place the blocks so {A} supports {B}, and {B} supports {C}.",
+  "Make a vertical stack with {A} below {B} and {B} below {C}."
+ ],
+ "unseen": [
+  "Keep {A} as the base, then stack {B} on it and {C} on {B}.",
+  "Form a three-block stack with {A} bottom, {B} middle, and {C} top.",
+  "Place {B} over {A}, then place {C} over {B}.",
+  "Leave {A} where it is and build the stack upward with {B} and {C}.",
+  "Use {b} to put {B} on {A}, then use {c} to put {C} on {B}.",
+  "Complete the tower by setting {B} above {A} and {C} above {B}.",
+  "Make {A} the lower block, {B} the middle block, and {C} the upper block.",
+  "Build the tower step by step: {B} on {A}, then {C} on {B}."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "find {B} and grasp it"
+   ],
+   "unseen": [
+    "find {B} and grasp it"
+   ]
+  },
+  "2": {
+   "seen": [
+    "find {A} and stack {B} on it"
+   ],
+   "unseen": [
+    "find {A} and stack {B} on it"
+   ]
+  },
+  "3": {
+   "seen": [
+    "find {C} and grasp it"
+   ],
+   "unseen": [
+    "find {C} and grasp it"
+   ]
+  },
+  "4": {
+   "seen": [
+    "find {B} and stack {C} on it"
+   ],
+   "unseen": [
+    "find {B} and stack {C} on it"
+   ]
+  }
+ }
+}

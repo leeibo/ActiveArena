@@ -1,0 +1,21 @@
+{
+ "full_description": "Inspect two gray blocks' hidden backside colors and place each block on the matching colored pad; both blocks may match the same pad.",
+ "schema": "{A} denotes the two gray backside-marked blocks, {B} denotes the colored pads, {C} denotes the inspected backside colors, {a} denotes the arm used",
+ "preference": "Mention that both backside colors must be inspected and matched to pads.",
+ "seen": [
+  "Use {a} to inspect {A} and place each on its matching pad.",
+  "Check both blocks' hidden back colors, then match them to {B}.",
+  "Reveal the backside colors and put each gray block on the corresponding pad.",
+  "Sort the two blocks by their hidden back colors."
+ ],
+ "unseen": [
+  "Inspect the backs of two blocks and match them to pads.",
+  "Move each gray block to the pad matching its backside color.",
+  "Use hidden backside colors to place the two blocks."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {"seen": ["pick up one gray block with {a}"], "unseen": ["grasp a gray backside-marked block"]},
+  "2": {"seen": ["inspect the carried block's backside color"], "unseen": ["reveal a hidden back color"]},
+  "3": {"seen": ["place that block on the matching pad"], "unseen": ["match the block to its color pad"]}
+ }
+}

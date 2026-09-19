@@ -1,0 +1,37 @@
+# Whitelist used for pre-collecting reusable eval seed lists.
+
+- beat_block_hammer_rotate_view
+- place_container_plate_rotate_view
+- blocks_ranking_rgb_fan_double
+- place_empty_cup_rotate_view
+- blocks_ranking_rgb_rotate_view
+- place_fan_rotate_view
+- blocks_ranking_size_fan_double
+- place_mouse_pad_rotate_view
+- blocks_ranking_size_rotate_view
+- place_object_basket_fan_double
+- check_block_color
+- place_object_scale_rotate_view
+- check_cola_color
+- place_object_stand_rotate_view
+- check_cola_date
+- place_shoe_rotate_view
+- click_bell_rotate_view
+- press_stapler_rotate_view
+- count_color_kinds_press_button
+- put_block_on_upper_easy
+- count_random_object_press_button
+- put_block_on_upper_hard
+- count_target_press_button
+- rank_backside_rgb_blocks
+- match_backside_two_blocks
+- shake_bottle_horizontally_rotate_view
+- move_pillbottle_pad_rotate_view
+- shake_bottle_rotate_view
+- move_stapler_pad_rotate_view
+- stack_blocks_two_rotate_view
+- place_a2b_left_rotate_view
+- stamp_seal_rotate_view
+- place_a2b_right_rotate_view
+- turn_switch_rotate_view
+- place_cans_plasticbox_rotate_view

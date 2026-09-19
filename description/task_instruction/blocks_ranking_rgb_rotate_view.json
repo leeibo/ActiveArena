@@ -1,0 +1,66 @@
+{
+ "full_description": "Arrange the red block, green block, and blue block from left to right in that order.",
+ "schema": "{A} denotes the red block, {B} denotes the green block, {C} denotes the blue block, {a} denotes the arm on the red-block side, {b} denotes the arm that moves the green block, {c} denotes the arm that moves the blue block",
+ "preference": "num of words should not exceed 30",
+ "seen": [
+  "Arrange {A}, {B}, and {C} from left to right in order.",
+  "Keep {A} as the left reference, place {B} to its right, then place {C} to the right of {B}.",
+  "Line up {A}, {B}, and {C} from left to right.",
+  "Set {B} beside {A}, then set {C} beside {B}.",
+  "Place {A}, {B}, and {C} in a row with {A} leftmost.",
+  "Use {b} to place {B} to the right of {A}, then use {c} to place {C} to the right of {B}.",
+  "Arrange the row as {A}, then {B}, then {C}.",
+  "Put {B} next to {A}, and put {C} next to {B}.",
+  "Make a left-to-right row of {A}, {B}, and {C}.",
+  "Order the blocks from left to right as {A}, {B}, and {C}.",
+  "Keep {A} where it is, then complete the row with {B} and {C} on its right.",
+  "Form a straight row with {A} on the left, {B} in the middle, and {C} on the right.",
+  "Place the blocks so {A} is left of {B}, and {B} is left of {C}.",
+  "Arrange {A}, {B}, and {C} side by side in that order.",
+  "Move {B} beside {A}, then move {C} beside {B}."
+ ],
+ "unseen": [
+  "Arrange {A}, {B}, and {C} in order from left to right.",
+  "Place {B} to the right of {A}, then place {C} to the right of {B}.",
+  "Sort the row as {A}, {B}, then {C}.",
+  "Keep {A} as the left anchor and complete the lineup with {B} and {C}.",
+  "Set the three blocks in a row with {A} left, {B} center, and {C} right.",
+  "Make {A}, {B}, and {C} form a left-to-right sequence.",
+  "Put the blocks in order so {A} comes before {B}, and {B} comes before {C}.",
+  "Build the lineup from {A} to {C}, placing each block to the right of the previous one."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {
+   "seen": [
+    "find {B} and grasp it"
+   ],
+   "unseen": [
+    "find {B} and grasp it"
+   ]
+  },
+  "2": {
+   "seen": [
+    "find {A} and place {B} to its right"
+   ],
+   "unseen": [
+    "find {A} and place {B} to its right"
+   ]
+  },
+  "3": {
+   "seen": [
+    "find {C} and grasp it"
+   ],
+   "unseen": [
+    "find {C} and grasp it"
+   ]
+  },
+  "4": {
+   "seen": [
+    "find {B} and place {C} to its right"
+   ],
+   "unseen": [
+    "find {B} and place {C} to its right"
+   ]
+  }
+ }
+}

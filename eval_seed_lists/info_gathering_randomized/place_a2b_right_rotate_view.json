@@ -1,0 +1,1424 @@
+{
+  "format_version": 1,
+  "task_name": "place_a2b_right_rotate_view",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 226,
+  "last_attempted_seed": 100225,
+  "next_seed": 100226,
+  "updated_at": "2026-07-10T07:20:47",
+  "elapsed_sec": 2428.899,
+  "seeds": [
+    100001,
+    100002,
+    100003,
+    100004,
+    100005,
+    100009,
+    100010,
+    100013,
+    100015,
+    100017,
+    100019,
+    100020,
+    100022,
+    100023,
+    100025,
+    100028,
+    100031,
+    100033,
+    100036,
+    100037,
+    100038,
+    100039,
+    100040,
+    100042,
+    100043,
+    100045,
+    100048,
+    100049,
+    100053,
+    100054,
+    100056,
+    100062,
+    100063,
+    100066,
+    100067,
+    100068,
+    100069,
+    100071,
+    100072,
+    100073,
+    100074,
+    100075,
+    100079,
+    100080,
+    100081,
+    100082,
+    100085,
+    100087,
+    100088,
+    100089,
+    100091,
+    100097,
+    100098,
+    100099,
+    100100,
+    100103,
+    100106,
+    100107,
+    100112,
+    100115,
+    100117,
+    100118,
+    100119,
+    100120,
+    100121,
+    100124,
+    100126,
+    100127,
+    100129,
+    100133,
+    100136,
+    100137,
+    100138,
+    100146,
+    100154,
+    100158,
+    100163,
+    100168,
+    100169,
+    100170,
+    100171,
+    100173,
+    100174,
+    100175,
+    100176,
+    100178,
+    100181,
+    100184,
+    100187,
+    100190,
+    100191,
+    100193,
+    100196,
+    100199,
+    100201,
+    100209,
+    100211,
+    100218,
+    100223,
+    100225
+  ],
+  "entries": [
+    {
+      "seed": 100001,
+      "info": {
+        "{A}": "tea box",
+        "{B}": "soap",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100002,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100003,
+      "info": {
+        "{A}": "bell",
+        "{B}": "stapler",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100004,
+      "info": {
+        "{A}": "coffee box",
+        "{B}": "stapler",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100005,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100009,
+      "info": {
+        "{A}": "bell",
+        "{B}": "tea box",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100010,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100013,
+      "info": {
+        "{A}": "bread",
+        "{B}": "mouse",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100015,
+      "info": {
+        "{A}": "tea box",
+        "{B}": "soap",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100017,
+      "info": {
+        "{A}": "phone",
+        "{B}": "stapler",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "bread",
+        "{B}": "bell",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100020,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "soap",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100022,
+      "info": {
+        "{A}": "coffee box",
+        "{B}": "toy car",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100023,
+      "info": {
+        "{A}": "bread",
+        "{B}": "woodenblock",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100025,
+      "info": {
+        "{A}": "soap",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100028,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "playingcards",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100031,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "soap",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100033,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "woodenblock",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100036,
+      "info": {
+        "{A}": "coffee box",
+        "{B}": "phone",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100037,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "woodenblock",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "soap",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "bread",
+        "{B}": "stapler",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100040,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "woodenblock",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100042,
+      "info": {
+        "{A}": "soap",
+        "{B}": "bread",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100043,
+      "info": {
+        "{A}": "soap",
+        "{B}": "bell",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100045,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "bread",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100048,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "bell",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100049,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "tea box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100053,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "stapler",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100054,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "soap",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100056,
+      "info": {
+        "{A}": "bread",
+        "{B}": "soap",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100062,
+      "info": {
+        "{A}": "soap",
+        "{B}": "playingcards",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100063,
+      "info": {
+        "{A}": "phone",
+        "{B}": "toy car",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "tea box",
+        "{B}": "playingcards",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100067,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100068,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100069,
+      "info": {
+        "{A}": "coffee box",
+        "{B}": "soap",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "tea box",
+        "{B}": "phone",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100073,
+      "info": {
+        "{A}": "soap",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100074,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "soap",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100079,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "soap",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100080,
+      "info": {
+        "{A}": "tea box",
+        "{B}": "phone",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100081,
+      "info": {
+        "{A}": "bell",
+        "{B}": "phone",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100082,
+      "info": {
+        "{A}": "phone",
+        "{B}": "coffee box",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100085,
+      "info": {
+        "{A}": "bell",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100087,
+      "info": {
+        "{A}": "bell",
+        "{B}": "woodenblock",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100088,
+      "info": {
+        "{A}": "bell",
+        "{B}": "soap",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100089,
+      "info": {
+        "{A}": "soap",
+        "{B}": "bell",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100091,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100097,
+      "info": {
+        "{A}": "tea box",
+        "{B}": "woodenblock",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100098,
+      "info": {
+        "{A}": "phone",
+        "{B}": "tea box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100099,
+      "info": {
+        "{A}": "bell",
+        "{B}": "playingcards",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100100,
+      "info": {
+        "{A}": "soap",
+        "{B}": "mouse",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100103,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "soap",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100106,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100107,
+      "info": {
+        "{A}": "soap",
+        "{B}": "bell",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100112,
+      "info": {
+        "{A}": "bell",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100115,
+      "info": {
+        "{A}": "tea box",
+        "{B}": "toy car",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100117,
+      "info": {
+        "{A}": "bell",
+        "{B}": "phone",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100118,
+      "info": {
+        "{A}": "bread",
+        "{B}": "playingcards",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100119,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "mouse",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100120,
+      "info": {
+        "{A}": "soap",
+        "{B}": "phone",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100121,
+      "info": {
+        "{A}": "soap",
+        "{B}": "toy car",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100124,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "toy car",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100126,
+      "info": {
+        "{A}": "bell",
+        "{B}": "mouse",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100127,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "bell",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100129,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "mouse",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100133,
+      "info": {
+        "{A}": "soap",
+        "{B}": "toy car",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100136,
+      "info": {
+        "{A}": "soap",
+        "{B}": "bread",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100137,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "playingcards",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100138,
+      "info": {
+        "{A}": "bell",
+        "{B}": "phone",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100146,
+      "info": {
+        "{A}": "bread",
+        "{B}": "toy car",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100154,
+      "info": {
+        "{A}": "bell",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100158,
+      "info": {
+        "{A}": "bell",
+        "{B}": "bread",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100163,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "mouse",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100168,
+      "info": {
+        "{A}": "soap",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100169,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100170,
+      "info": {
+        "{A}": "rubik's cube",
+        "{B}": "stapler",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100171,
+      "info": {
+        "{A}": "bell",
+        "{B}": "coffee box",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100173,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100174,
+      "info": {
+        "{A}": "bell",
+        "{B}": "mouse",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100175,
+      "info": {
+        "{A}": "bread",
+        "{B}": "toy car",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100176,
+      "info": {
+        "{A}": "coffee box",
+        "{B}": "bell",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100178,
+      "info": {
+        "{A}": "toy car",
+        "{B}": "bell",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100181,
+      "info": {
+        "{A}": "bread",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100184,
+      "info": {
+        "{A}": "coffee box",
+        "{B}": "playingcards",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100187,
+      "info": {
+        "{A}": "coffee box",
+        "{B}": "playingcards",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100190,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "woodenblock",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100191,
+      "info": {
+        "{A}": "bell",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100193,
+      "info": {
+        "{A}": "bread",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100196,
+      "info": {
+        "{A}": "coffee box",
+        "{B}": "phone",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100199,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100201,
+      "info": {
+        "{A}": "playingcards",
+        "{B}": "rubik's cube",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100209,
+      "info": {
+        "{A}": "bell",
+        "{B}": "phone",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100211,
+      "info": {
+        "{A}": "bell",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100218,
+      "info": {
+        "{A}": "tea box",
+        "{B}": "coffee box",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100223,
+      "info": {
+        "{A}": "mouse",
+        "{B}": "stapler",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100225,
+      "info": {
+        "{A}": "tea box",
+        "{B}": "bell",
+        "{a}": "left"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100000,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100006,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100007,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100008,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100011,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100012,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100014,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100016,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100021,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100024,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100026,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100027,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100029,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100030,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100032,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100034,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100035,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100041,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100044,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100046,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100047,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100050,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100051,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100052,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100055,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100057,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100058,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100059,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100060,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100061,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100064,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100065,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100070,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100077,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100078,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100083,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100084,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100086,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100090,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100092,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100093,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100094,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100095,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100096,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100101,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100102,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100104,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100105,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100108,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100109,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100110,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100111,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100113,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100114,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100116,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100122,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100123,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100128,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100130,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100131,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100132,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100134,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100135,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100139,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100140,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100141,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100142,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100143,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100144,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100145,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100147,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100148,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100149,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100150,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100151,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100152,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100153,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100155,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100156,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100157,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100159,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100160,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100161,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100162,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100164,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100165,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100166,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100167,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100172,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100177,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100179,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100180,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100182,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100183,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100185,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100186,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100188,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100189,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100192,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100194,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100195,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100197,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100198,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100200,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100202,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100203,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100204,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100205,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100206,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100207,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100208,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100210,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100212,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100213,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100214,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100215,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100216,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100217,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100219,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100220,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100221,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100222,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100224,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

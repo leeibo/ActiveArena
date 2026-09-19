@@ -1,0 +1,1144 @@
+{
+  "format_version": 1,
+  "task_name": "check_cola_color",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 106,
+  "last_attempted_seed": 100105,
+  "next_seed": 100106,
+  "updated_at": "2026-07-09T19:02:26",
+  "elapsed_sec": 1414.578,
+  "seeds": [
+    100000,
+    100001,
+    100002,
+    100003,
+    100004,
+    100005,
+    100006,
+    100007,
+    100008,
+    100009,
+    100010,
+    100011,
+    100012,
+    100013,
+    100014,
+    100015,
+    100016,
+    100017,
+    100018,
+    100019,
+    100020,
+    100021,
+    100022,
+    100023,
+    100024,
+    100025,
+    100026,
+    100027,
+    100029,
+    100031,
+    100032,
+    100033,
+    100034,
+    100035,
+    100036,
+    100037,
+    100038,
+    100039,
+    100040,
+    100041,
+    100042,
+    100043,
+    100044,
+    100045,
+    100046,
+    100047,
+    100048,
+    100049,
+    100050,
+    100051,
+    100052,
+    100053,
+    100054,
+    100055,
+    100056,
+    100057,
+    100058,
+    100059,
+    100060,
+    100061,
+    100062,
+    100063,
+    100064,
+    100065,
+    100066,
+    100067,
+    100069,
+    100070,
+    100071,
+    100072,
+    100073,
+    100074,
+    100075,
+    100077,
+    100078,
+    100079,
+    100080,
+    100081,
+    100082,
+    100083,
+    100084,
+    100086,
+    100087,
+    100088,
+    100089,
+    100090,
+    100091,
+    100092,
+    100093,
+    100094,
+    100095,
+    100096,
+    100098,
+    100099,
+    100100,
+    100101,
+    100102,
+    100103,
+    100104,
+    100105
+  ],
+  "entries": [
+    {
+      "seed": 100000,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "red area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100001,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "red area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100002,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "blue area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100003,
+      "info": {
+        "{A}": "can",
+        "{B}": "green area",
+        "{C}": "yellow area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100004,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100005,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "purple area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100006,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "red area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100007,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "yellow area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100008,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "blue area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100009,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "purple area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100010,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "orange area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100011,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "orange area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100012,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "purple area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100013,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "purple area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100014,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "blue area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100015,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "blue area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100016,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "purple area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100017,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "purple area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100018,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "orange area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100020,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "purple area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100021,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "blue area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100022,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "orange area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100023,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "blue area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100024,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "green area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100025,
+      "info": {
+        "{A}": "can",
+        "{B}": "green area",
+        "{C}": "red area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100026,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "yellow area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100027,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "blue area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100029,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100031,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100032,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "blue area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100033,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "red area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100034,
+      "info": {
+        "{A}": "can",
+        "{B}": "green area",
+        "{C}": "red area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100035,
+      "info": {
+        "{A}": "can",
+        "{B}": "green area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100036,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "purple area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100037,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "green area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "blue area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "can",
+        "{B}": "green area",
+        "{C}": "purple area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100040,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "green area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100041,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "blue area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100042,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "green area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100043,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "purple area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100044,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "blue area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100045,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "green area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100046,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "green area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100047,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100048,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "green area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100049,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "yellow area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100050,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "green area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100051,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "green area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100052,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "blue area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100053,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "orange area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100054,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "yellow area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100055,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "purple area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100056,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "red area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100057,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "green area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100058,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "red area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100059,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "red area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100060,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "red area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100061,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "red area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100062,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "yellow area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100063,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "red area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100064,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "purple area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100065,
+      "info": {
+        "{A}": "can",
+        "{B}": "green area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "orange area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100067,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100069,
+      "info": {
+        "{A}": "can",
+        "{B}": "green area",
+        "{C}": "purple area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100070,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "blue area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "green area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "purple area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100073,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "purple area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100074,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "can",
+        "{B}": "green area",
+        "{C}": "orange area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100077,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "yellow area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100078,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "green area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100079,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "purple area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100080,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "purple area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100081,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "purple area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100082,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "red area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100083,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100084,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "orange area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100086,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "orange area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100087,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "orange area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100088,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "red area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100089,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "blue area",
+        "{F}": "purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100090,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "purple area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100091,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "yellow area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100092,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "blue area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100093,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "purple area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100094,
+      "info": {
+        "{A}": "can",
+        "{B}": "purple area",
+        "{C}": "green area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100095,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "yellow area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100096,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "yellow area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100098,
+      "info": {
+        "{A}": "can",
+        "{B}": "red area",
+        "{C}": "green area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100099,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "red area",
+        "{F}": "orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100100,
+      "info": {
+        "{A}": "can",
+        "{B}": "yellow area",
+        "{C}": "blue area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100101,
+      "info": {
+        "{A}": "can",
+        "{B}": "green area",
+        "{C}": "red area",
+        "{F}": "red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100102,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "green area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100103,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "blue area",
+        "{F}": "blue",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100104,
+      "info": {
+        "{A}": "can",
+        "{B}": "orange area",
+        "{C}": "yellow area",
+        "{F}": "yellow",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100105,
+      "info": {
+        "{A}": "can",
+        "{B}": "blue area",
+        "{C}": "green area",
+        "{F}": "green",
+        "{a}": "left"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100028,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100030,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100068,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100085,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100097,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

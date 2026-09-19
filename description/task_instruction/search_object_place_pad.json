@@ -1,0 +1,23 @@
+{
+ "full_description": "Find the red block; if it is hidden in {B}, open {B}, then place the block on {C}.",
+ "schema": "{A} denotes the red block, {B} denotes the cabinet, {C} denotes the blue pad, {a} denotes the arm moving the block, {b} denotes the arm opening the cabinet, {s} denotes whether the block starts on the table or in the drawer",
+ "preference": "num of words should not exceed 24. Mention searching, opening the cabinet only if needed, and placing the block on the pad.",
+ "seen": [
+  "Find {A}; if it is in {B}, open it and place {A} on {C}.",
+  "Search for {A}, open {B} if needed, then put it on {C}.",
+  "Locate the red block and move it from {s} to {C}.",
+  "If {A} is hidden, open {B}; then place {A} on {C}.",
+  "Use {a} to move {A} onto {C} after searching the scene."
+ ],
+ "unseen": [
+  "Find the red block and put it on the blue pad.",
+  "Search the table and cabinet, then move the block to the pad.",
+  "Open the cabinet only when needed and place the block on the pad."
+ ],
+ "subtask_instruction_template_map": {
+  "1": {"seen": ["search for {A}"], "unseen": ["look for the red block"]},
+  "2": {"seen": ["open {B} if {A} is hidden"], "unseen": ["open the cabinet"]},
+  "3": {"seen": ["pick up {A} with {a}"], "unseen": ["grasp the red block"]},
+  "4": {"seen": ["place {A} on {C}"], "unseen": ["put the block on the pad"]}
+ }
+}

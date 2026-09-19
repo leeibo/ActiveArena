@@ -1,0 +1,1250 @@
+{
+  "format_version": 1,
+  "task_name": "place_container_plate_rotate_view",
+  "task_config": "info_gathering_randomized",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 182,
+  "last_attempted_seed": 100181,
+  "next_seed": 100182,
+  "updated_at": "2026-07-09T05:19:45",
+  "elapsed_sec": 1862.664,
+  "seeds": [
+    100002,
+    100003,
+    100004,
+    100005,
+    100006,
+    100007,
+    100008,
+    100010,
+    100014,
+    100015,
+    100016,
+    100019,
+    100020,
+    100022,
+    100026,
+    100029,
+    100030,
+    100031,
+    100032,
+    100033,
+    100034,
+    100038,
+    100039,
+    100040,
+    100045,
+    100047,
+    100049,
+    100051,
+    100054,
+    100056,
+    100060,
+    100062,
+    100063,
+    100064,
+    100065,
+    100066,
+    100068,
+    100069,
+    100071,
+    100072,
+    100073,
+    100074,
+    100078,
+    100079,
+    100080,
+    100082,
+    100084,
+    100085,
+    100086,
+    100090,
+    100092,
+    100094,
+    100096,
+    100102,
+    100103,
+    100104,
+    100105,
+    100106,
+    100109,
+    100110,
+    100111,
+    100112,
+    100113,
+    100114,
+    100115,
+    100116,
+    100117,
+    100118,
+    100120,
+    100122,
+    100123,
+    100124,
+    100130,
+    100131,
+    100132,
+    100133,
+    100134,
+    100135,
+    100141,
+    100142,
+    100145,
+    100146,
+    100152,
+    100154,
+    100156,
+    100160,
+    100161,
+    100162,
+    100163,
+    100165,
+    100166,
+    100169,
+    100170,
+    100171,
+    100173,
+    100174,
+    100176,
+    100178,
+    100179,
+    100181
+  ],
+  "entries": [
+    {
+      "seed": 100002,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100003,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100004,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100005,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100006,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100007,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100008,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100010,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100014,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100015,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100016,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100019,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100020,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100022,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100026,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100029,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100030,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100031,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100032,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100033,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100034,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100040,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100045,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100047,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100049,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100051,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100054,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100056,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100060,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100062,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100063,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100064,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100065,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100068,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100069,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100073,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100074,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100078,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100079,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100080,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100082,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100084,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100085,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100086,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100090,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100092,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100094,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100096,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100102,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100103,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100104,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100105,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100106,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100109,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100110,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100111,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100112,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100113,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100114,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100115,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100116,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100117,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100118,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100120,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100122,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100123,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100124,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100130,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100131,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100132,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100133,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100134,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100135,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100141,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100142,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100145,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100146,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100152,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100154,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100156,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100160,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100161,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100162,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100163,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100165,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100166,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100169,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100170,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100171,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100173,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100174,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100176,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100178,
+      "info": {
+        "{A}": "plate",
+        "{B}": "empty cup",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100179,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100181,
+      "info": {
+        "{A}": "plate",
+        "{B}": "container",
+        "{a}": "left"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100000,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100001,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100009,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100011,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100012,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100013,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100017,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100021,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100023,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100024,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100025,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100027,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100028,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100035,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100036,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100037,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100041,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100042,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100043,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100044,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100046,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100048,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100050,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100052,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100053,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100055,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100057,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100058,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100059,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100061,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100067,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100070,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100070), unstable objects: spoon"
+    },
+    {
+      "seed": 100075,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100076), unstable objects: marker"
+    },
+    {
+      "seed": 100077,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100081,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100083,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100087,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100088,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100089,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100091,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100093,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100095,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100097,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100098,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100099,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100100,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100101,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100107,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100108,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100119,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100121,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100126,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100127,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100128,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100129,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100136,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100137,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100138,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100139,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100140,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100143,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100144,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100147,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100148,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100149,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100150,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100151,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100153,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100155,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100157,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100158,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100159,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100164,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100167,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100168,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100172,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100175,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100177,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100180,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}

@@ -1,0 +1,1713 @@
+{
+  "format_version": 1,
+  "task_name": "place_fan_rotate_view",
+  "task_config": "info_gathering_demo",
+  "seed_arg": 0,
+  "start_seed": 100000,
+  "requested_successes": 100,
+  "success_count": 100,
+  "attempt_count": 298,
+  "last_attempted_seed": 100297,
+  "next_seed": 100298,
+  "updated_at": "2026-07-09T08:37:39",
+  "elapsed_sec": 3091.125,
+  "seeds": [
+    100003,
+    100010,
+    100013,
+    100015,
+    100016,
+    100017,
+    100020,
+    100023,
+    100025,
+    100029,
+    100032,
+    100034,
+    100036,
+    100038,
+    100039,
+    100040,
+    100042,
+    100046,
+    100047,
+    100052,
+    100058,
+    100060,
+    100063,
+    100066,
+    100068,
+    100070,
+    100071,
+    100072,
+    100075,
+    100077,
+    100084,
+    100088,
+    100089,
+    100094,
+    100099,
+    100100,
+    100104,
+    100109,
+    100112,
+    100114,
+    100118,
+    100119,
+    100121,
+    100123,
+    100133,
+    100135,
+    100137,
+    100139,
+    100142,
+    100143,
+    100145,
+    100147,
+    100154,
+    100156,
+    100161,
+    100162,
+    100163,
+    100168,
+    100177,
+    100179,
+    100182,
+    100188,
+    100189,
+    100190,
+    100193,
+    100194,
+    100195,
+    100207,
+    100212,
+    100213,
+    100220,
+    100221,
+    100222,
+    100230,
+    100236,
+    100237,
+    100239,
+    100241,
+    100242,
+    100243,
+    100244,
+    100251,
+    100252,
+    100260,
+    100261,
+    100266,
+    100267,
+    100270,
+    100275,
+    100276,
+    100277,
+    100280,
+    100281,
+    100282,
+    100283,
+    100290,
+    100292,
+    100293,
+    100294,
+    100297
+  ],
+  "entries": [
+    {
+      "seed": 100003,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100010,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Beige",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100013,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Maroon",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100015,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100016,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Pink",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100017,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Pink",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100020,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100023,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Cyan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100025,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Maroon",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100029,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Olive",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100032,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Teal",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100034,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Olive",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100036,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100038,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Silver",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100039,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Maroon",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100040,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Indigo",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100042,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100046,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Tan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100047,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100052,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Olive",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100058,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100060,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Indigo",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100063,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Brown",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100066,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Teal",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100068,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Tan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100070,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Indigo",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100071,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Orange",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100072,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Coral",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100075,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Navy",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100077,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100084,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Indigo",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100088,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Orange",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100089,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Lime",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100094,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Teal",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100099,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Lime",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100100,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100104,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Coral",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100109,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100112,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Lime",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100114,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Indigo",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100118,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Silver",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100119,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100121,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Olive",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100123,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Silver",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100133,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Yellow",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100135,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Coral",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100137,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Purple",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100139,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100142,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100143,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Brown",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100145,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Silver",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100147,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100154,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100156,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Coral",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100161,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Indigo",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100162,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Silver",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100163,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100168,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Blue",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100177,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Black",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100179,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Navy",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100182,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Pink",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100188,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Teal",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100189,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Brown",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100190,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Maroon",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100193,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Gray",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100194,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Indigo",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100195,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100207,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Olive",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100212,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Silver",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100213,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Maroon",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100220,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100221,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Navy",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100222,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Indigo",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100230,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Orange",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100236,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Tan",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100237,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Maroon",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100239,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Green",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100241,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Teal",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100242,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100243,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Purple",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100244,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Tan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100251,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Green",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100252,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100260,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Orange",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100261,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Navy",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100266,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Navy",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100267,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Gray",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100270,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Black",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100275,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Tan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100276,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Yellow",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100277,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Red",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100280,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Cyan",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100281,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Turquoise",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100282,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Beige",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100283,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Purple",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100290,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Magenta",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100292,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Turquoise",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100293,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Navy",
+        "{a}": "left"
+      }
+    },
+    {
+      "seed": 100294,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Red",
+        "{a}": "right"
+      }
+    },
+    {
+      "seed": 100297,
+      "info": {
+        "{A}": "fan",
+        "{B}": "Brown",
+        "{a}": "right"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "seed": 100000,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100001,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100002,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100004,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100005,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100006,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100007,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100008,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100009,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100011,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100012,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100014,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100018,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100019,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100021,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100022,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100024,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100026,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100027,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100028,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100030,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100031,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100033,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100035,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100037,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100041,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100043,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100044,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100045,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100048,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100049,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100050,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100051,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100053,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100054,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100055,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100056,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100057,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100059,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100061,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100062,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100064,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100065,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100067,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100069,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100073,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100074,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100076,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100078,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100079,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100080,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100081,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100082,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100083,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100085,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100086,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100087,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100090,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100091,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100092,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100093,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100095,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100096,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100097,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100098,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100101,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100102,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100103,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100105,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100106,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100107,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100108,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100110,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100111,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100113,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100115,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100116,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100117,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100120,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100122,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100124,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100125,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100126,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100127,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100128,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100129,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100130,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100131,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100132,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100134,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100136,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100138,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100140,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100141,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100144,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100146,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100148,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100149,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100150,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100151,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100152,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100153,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100155,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100157,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100158,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100159,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100160,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100164,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100165,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100166,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100167,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100169,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100170,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100171,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100172,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100173,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100174,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100175,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100176,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100178,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100180,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100181,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100183,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100184,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100185,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100186,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100187,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100191,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100192,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100196,
+      "type": "UnStableError",
+      "message": "Objects is unstable in seed(100196), unstable objects: spoon"
+    },
+    {
+      "seed": 100197,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100198,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100199,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100200,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100201,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100202,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100203,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100204,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100205,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100206,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100208,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100209,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100210,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100211,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100214,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100215,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100216,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100217,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100218,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100219,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100223,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100224,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100225,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100226,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100227,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100228,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100229,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100231,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100232,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100233,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100234,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100235,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100238,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100240,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100245,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100246,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100247,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100248,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100249,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100250,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100253,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100254,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100255,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100256,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100257,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100258,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100259,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100262,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100263,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100264,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100265,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100268,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100269,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100271,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100272,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100273,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100274,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100278,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100279,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100284,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100285,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100286,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100287,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100288,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100289,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100291,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100295,
+      "type": "plan_or_success_check_failed"
+    },
+    {
+      "seed": 100296,
+      "type": "plan_or_success_check_failed"
+    }
+  ]
+}
