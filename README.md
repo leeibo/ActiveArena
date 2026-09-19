@@ -37,7 +37,7 @@ The initial observation is insufficient to solve the tasks. A policy must decide
   <img src="docs/images/benchmark.png" alt="ActiveArena simulator, task categories, and evaluation protocol" width="100%">
 </p>
 
-The benchmark training protocol uses **100 ID demonstrations per task**, totaling **581.2k frames / 10.76 hours**. Evaluation uses **50 episodes per task in each setting**. The released task list is in [task_config/eval_seed_task_whitelist.yml](task_config/eval_seed_task_whitelist.yml).
+The benchmark training protocol uses **100 ID demonstrations per task**, totaling **581.2k frames / 10.76 hours**. Evaluation uses **50 episodes per task in each setting**. The released task list is in [task_config/eval_seed_task_whitelist.yml](task_config/eval_seed_task_whitelist.yml). The complete task taxonomy and task-to-category mapping are available in [docs/task_categories.md](docs/task_categories.md).
 
 ## Installation
 
