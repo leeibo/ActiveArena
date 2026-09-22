@@ -1,9 +1,7 @@
 cff-version: 1.2.0
 title: ActiveArena
 message: >-
-  If you use this software, cite ActiveArena. A temporary manuscript citation
-  is available in README.md; verified paper author and publication metadata
-  will be added when available.
+  If you use this software, please cite the ActiveArena paper below.
 type: software
 authors:
   - name: ActiveArena contributors
@@ -16,3 +14,34 @@ keywords:
   - robotic-manipulation
   - vision-language-action
 license: MIT
+preferred-citation:
+  type: generic
+  title: "ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation"
+  authors:
+    - family-names: Li
+      given-names: Yibo
+    - family-names: Zhou
+      given-names: Enshen
+    - family-names: Chen
+      given-names: Rui
+    - family-names: Ding
+      given-names: Yanjun
+    - family-names: Liu
+      given-names: Mengzhen
+    - family-names: Han
+      given-names: Yi
+    - family-names: Zhan
+      given-names: Jiabo
+    - family-names: Wang
+      given-names: Lipeng
+    - family-names: Zhang
+      given-names: Shanghang
+    - family-names: Sheng
+      given-names: Lu
+  year: 2026
+  url: "https://arxiv.org/abs/2609.24124"
+  identifiers:
+    - type: other
+      value: "arXiv:2609.24124"
+  keywords:
+    - cs.RO

@@ -192,12 +192,17 @@ The code is released under the [MIT License](LICENSE). Third-party code and asse
 
 ## Citation
 
-If you use ActiveArena in your research, please cite the project. The following is a temporary manuscript entry; verified author and publication metadata will be added when available.
+If you use ActiveArena in your research, please cite the following paper.
 
 ```bibtex
-@misc{activearena_manuscript,
-  title = {ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation},
-  note  = {Manuscript submitted for review at AAAI 2027}
+@misc{li2026activearenabenchmarkingunderstandingactive,
+      title={ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation},
+      author={Yibo Li and Enshen Zhou and Rui Chen and Yanjun Ding and Mengzhen Liu and Yi Han and Jiabo Zhan and Lipeng Wang and Shanghang Zhang and Lu Sheng},
+      year={2026},
+      eprint={2609.24124},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2609.24124},
 }
 ```
 
