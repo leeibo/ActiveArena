@@ -186,7 +186,7 @@ ActiveArena/
 
 ## Acknowledgements and license
 
-ActiveArena builds on [RoboTwin](https://github.com/RoboTwin-Platform/RoboTwin) for simulation and manipulation infrastructure, and uses articulated information-gathering assets from [RMBench](https://github.com/RoboTwin-Platform/RMBench). The reference policy adapters build on [StarVLA](https://github.com/starVLA/starVLA).
+ActiveArena builds on [RoboTwin](https://github.com/RoboTwin-Platform/RoboTwin) and uses button asset from [RMBench](https://github.com/RoboTwin-Platform/RMBench). The reference policy builds on [StarVLA](https://github.com/starVLA/starVLA).
 
 The code is released under the [MIT License](LICENSE). Third-party code and assets retain their respective licenses and attribution requirements.
 
