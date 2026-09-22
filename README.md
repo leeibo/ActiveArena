@@ -115,8 +115,6 @@ huggingface-cli download leeibo/ActiveArena-Data \
   --local-dir data/ActiveArena-Data
 ```
 
-This is the converted training dataset. Raw HDF5 trajectories can be generated with the collection commands above. Large datasets and simulation assets are distributed separately from the code repository.
-
 ## Evaluation
 
 ### Protocol
@@ -205,5 +203,3 @@ If you use ActiveArena in your research, please cite the following paper.
       url={https://arxiv.org/abs/2609.24124},
 }
 ```
-
-Contributions and bug reports are welcome through the [issue tracker](https://github.com/leeibo/ActiveArena/issues).
