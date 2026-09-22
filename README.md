@@ -4,7 +4,7 @@
 
 ActiveArena is a simulation environment and benchmark for robotic manipulation that requires **actively acquiring visual evidence and remembering it across observations**. Robots must change viewpoints, search across a large workspace, or interact with objects to reveal information before completing a task.
 
-[Project Website](https://leeibo.github.io/ActiveArena) · [Dataset](https://huggingface.co/datasets/leeibo/ActiveArena-Data) · [Simulation Assets](https://huggingface.co/datasets/leeibo/ActiveArena-Assets)
+[Project Website](https://leeibo.github.io/ActiveArena) · [Dataset](https://huggingface.co/datasets/leeibo/ActiveArena-Data) · [Paper](https://arxiv.org/abs/2609.24124)
 
 <p align="center">
   <img src="docs/images/teaser.png" alt="ActiveArena rollouts showing visual search and manipulation" width="96%">
